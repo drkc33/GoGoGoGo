@@ -2244,6 +2244,1085 @@
        ]
       }
      ]
+    },
+    {
+     "name": "7 · Introduction to Pharmacology",
+     "notes": "Pharmacology studies substances that interact with living systems through chemical processes. Drugs bind receptors (agonist or antagonist). Pharmacodynamics = what the drug does to the body; pharmacokinetics = what the body does to the drug.",
+     "sections": [
+      {
+       "id": "ip_basics",
+       "name": "Basics & History",
+       "questions": [
+        {
+         "q": "Pharmacology is the study of:",
+         "options": [
+          "Only the preparation of medicines",
+          "Substances that interact with living systems through chemical processes",
+          "Only the side effects of drugs",
+          "The business of selling drugs"
+         ],
+         "answer": 1,
+         "explain": "It is usually due to binding of the substance to regulatory molecules.",
+         "hy": true
+        },
+        {
+         "q": "Toxicology deals with:",
+         "options": [
+          "The undesirable effects of chemicals on living systems",
+          "Drug discovery",
+          "Drug dosage forms",
+          "Drug preparation"
+         ],
+         "answer": 0,
+         "explain": "Medical pharmacology deals with substances used to prevent, diagnose and treat disease."
+        },
+        {
+         "q": "Materia medica was the precursor to pharmacology and used:",
+         "options": [
+          "Purified compounds",
+          "Synthetic drugs",
+          "Gene therapy",
+          "Only crude materials (no purification)"
+         ],
+         "answer": 3,
+         "explain": "It began in the 17th century as observation and experimentation replaced theorizing."
+        },
+        {
+         "q": "Who developed experimental physiology and pharmacology in the 18th-19th centuries?",
+         "options": [
+          "Camillo Golgi",
+          "Hippocrates",
+          "Francois Magendie and his student Claude Bernard",
+          "Paul Ehrlich"
+         ],
+         "answer": 2,
+         "explain": "Concepts of drug receptors came in the 1940s-1950s."
+        },
+        {
+         "q": "A drug is defined as:",
+         "options": [
+          "Any natural plant extract",
+          "Any substance that brings about a change in biologic function through its chemical actions",
+          "Any substance sold in a pharmacy",
+          "Any substance that cures disease"
+         ],
+         "answer": 1,
+         "explain": "A drug may be an agonist or antagonist, and its target is a receptor.",
+         "hy": true
+        },
+        {
+         "q": "Toxins are:",
+         "options": [
+          "Poisons of biologic origin",
+          "Poisons made in the lab",
+          "Harmless drugs",
+          "Receptor agonists"
+         ],
+         "answer": 0,
+         "explain": "Poisons are drugs with almost exclusively harmful effects."
+        },
+        {
+         "q": "Chemicals in botanicals (herbs) compared with manufactured drugs:",
+         "options": [
+          "Are always safer",
+          "Are always more toxic",
+          "Need no safety testing",
+          "Are no different, except botanicals contain more impurities"
+         ],
+         "answer": 3,
+         "explain": "All supplements should meet the same standards of efficacy and safety as conventional drugs."
+        },
+        {
+         "q": "Most drugs have molecular weights between:",
+         "options": [
+          "1 and 10",
+          "10,000 and 100,000",
+          "100 and 1000",
+          "500,000 and 1,000,000"
+         ],
+         "answer": 2,
+         "explain": "Drugs above MW 1000 do not diffuse readily between compartments.",
+         "hy": true
+        },
+        {
+         "q": "Which drug-receptor bond is strong and nonreversible?",
+         "options": [
+          "Electrostatic",
+          "Covalent",
+          "Hydrophobic",
+          "Hydrogen"
+         ],
+         "answer": 1,
+         "explain": "Electrostatic bonds are more common but weaker; hydrophobic bonds are weak."
+        },
+        {
+         "q": "Which drug is a gas at room temperature?",
+         "options": [
+          "Nitrous oxide",
+          "Aspirin",
+          "Nicotine",
+          "Ethanol"
+         ],
+         "answer": 0,
+         "explain": "Aspirin and atropine are solids; nicotine and ethanol are liquids."
+        },
+        {
+         "q": "Pharmacodynamics is the study of:",
+         "options": [
+          "Absorption, distribution and elimination",
+          "Drug discovery",
+          "Drug naming",
+          "The actions of the drug on the body"
+         ],
+         "answer": 3,
+         "explain": "Pharmacokinetics is absorption, distribution and elimination.",
+         "hy": true
+        }
+       ]
+      },
+      {
+       "id": "ip_perm",
+       "name": "Drug Permeation",
+       "questions": [
+        {
+         "q": "Which is NOT a mechanism of drug permeation?",
+         "options": [
+          "Aqueous diffusion",
+          "Lipid diffusion",
+          "Radiation",
+          "Special carriers"
+         ],
+         "answer": 2,
+         "explain": "The four are aqueous diffusion, lipid diffusion, special carriers, and endocytosis/exocytosis."
+        },
+        {
+         "q": "The most important limiting factor for drug permeation is:",
+         "options": [
+          "Aqueous diffusion",
+          "Lipid diffusion (lipid:aqueous partition coefficient)",
+          "Endocytosis",
+          "Tight junctions"
+         ],
+         "answer": 1,
+         "explain": "The partition coefficient shows how readily a molecule moves between aqueous and lipid media.",
+         "hy": true
+        },
+        {
+         "q": "Special carriers transport drugs that are:",
+         "options": [
+          "Too large or too insoluble in lipid to diffuse passively",
+          "Highly lipid soluble",
+          "Gaseous",
+          "Very small"
+         ],
+         "answer": 0,
+         "explain": "Examples: peptides, amino acids, glucose."
+        },
+        {
+         "q": "Aqueous diffusion occurs:",
+         "options": [
+          "Through the lipid bilayer",
+          "Only with ATP",
+          "Only in the brain",
+          "Within large aqueous compartments and across epithelial tight junctions"
+         ],
+         "answer": 3,
+         "explain": "For example in interstitial space and cytosol."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "8 · Pharmacokinetics Part 1",
+     "notes": "ADME: absorption, distribution, metabolism, excretion. Routes of administration, dosage forms, plasma protein binding and renal excretion.",
+     "sections": [
+      {
+       "id": "pk_abs",
+       "name": "Absorption & Routes",
+       "questions": [
+        {
+         "q": "The four processes of pharmacokinetics are:",
+         "options": [
+          "Absorption, diffusion, mixing, elimination",
+          "Administration, binding, metabolism, storage",
+          "Absorption, distribution, metabolism, excretion",
+          "Absorption, dosing, receptor binding, excretion"
+         ],
+         "answer": 2,
+         "explain": "ADME.",
+         "hy": true
+        },
+        {
+         "q": "Passive diffusion depends on:",
+         "options": [
+          "ATP and carriers",
+          "Concentration gradient, lipid:water partition coefficient, and surface area",
+          "Carrier saturation",
+          "Drug color"
+         ],
+         "answer": 1,
+         "explain": "It needs no energy."
+        },
+        {
+         "q": "Active transport differs from facilitated diffusion because it:",
+         "options": [
+          "Requires energy and can move solute against the gradient",
+          "Needs no carrier",
+          "Follows the gradient",
+          "Is nonselective"
+         ],
+         "answer": 0,
+         "explain": "Example: Na+-K+-ATPase, the target of digoxin.",
+         "hy": true
+        },
+        {
+         "q": "Bioavailability is:",
+         "options": [
+          "The half-life of a drug",
+          "The volume of distribution",
+          "The rate of excretion",
+          "The fractional extent to which an administered dose reaches its site of action"
+         ],
+         "answer": 3,
+         "explain": "It may be limited by dosage form, intestinal metabolism and first-pass effect.",
+         "hy": true
+        },
+        {
+         "q": "The oral route is:",
+         "options": [
+          "The fastest",
+          "Always complete",
+          "The most common, safest, most convenient and economical",
+          "Free from first-pass effect"
+         ],
+         "answer": 2,
+         "explain": "Disadvantages include emesis, destruction by gastric acid and irregular absorption."
+        },
+        {
+         "q": "Enteric coating is useful for drugs that:",
+         "options": [
+          "Need fast absorption",
+          "Are destroyed by gastric acid or irritate the stomach",
+          "Are given sublingually",
+          "Are very polar"
+         ],
+         "answer": 1,
+         "explain": "The coating resists low pH."
+        },
+        {
+         "q": "Controlled-release preparations are designed for slow, uniform absorption for:",
+         "options": [
+          "8 hours or longer",
+          "1 hour",
+          "30 minutes",
+          "Only a few minutes"
+         ],
+         "answer": 0,
+         "explain": "They reduce dosing frequency and maintain effect overnight."
+        },
+        {
+         "q": "Sublingual administration avoids first-pass metabolism because:",
+         "options": [
+          "The drug is injected",
+          "Gastric acid destroys it",
+          "It is absorbed in the intestine",
+          "Venous drainage goes to the superior vena cava, bypassing the portal circulation"
+         ],
+         "answer": 3,
+         "explain": "Example: sublingual nitroglycerin.",
+         "hy": true
+        },
+        {
+         "q": "Which route has complete bioavailability and rapid distribution?",
+         "options": [
+          "Oral",
+          "Rectal",
+          "Intravenous",
+          "Topical"
+         ],
+         "answer": 2,
+         "explain": "IV needs careful dosing and monitoring."
+        },
+        {
+         "q": "Subcutaneous injection is suitable only for drugs that are:",
+         "options": [
+          "Highly irritating",
+          "Not irritating to tissue",
+          "Gaseous",
+          "Very large proteins only"
+         ],
+         "answer": 1,
+         "explain": "It gives a slow, sustained effect."
+        },
+        {
+         "q": "IM absorption is faster in the deltoid and vastus lateralis than the gluteus maximus because of:",
+         "options": [
+          "Greater blood flow",
+          "Thicker skin",
+          "Lower pH",
+          "More fat"
+         ],
+         "answer": 0,
+         "explain": "It is increased by heat, massage or exercise."
+        },
+        {
+         "q": "Intraarterial injection is used to:",
+         "options": [
+          "Reduce absorption",
+          "Treat the meninges",
+          "Give gases",
+          "Localize the drug effect in a particular organ, e.g. liver tumors"
+         ],
+         "answer": 3,
+         "explain": "Also head and neck cancers."
+        },
+        {
+         "q": "Intrathecal injection delivers drugs to:",
+         "options": [
+          "The muscle",
+          "The artery supplying the liver",
+          "The spinal subarachnoid space",
+          "The skin"
+         ],
+         "answer": 2,
+         "explain": "For local and rapid effects on the meninges or CSF."
+        },
+        {
+         "q": "Pulmonary absorption is rapid because of:",
+         "options": [
+          "Thick epithelium",
+          "The large surface area of the lungs",
+          "Low blood flow",
+          "High pH"
+         ],
+         "answer": 1,
+         "explain": "For gaseous and volatile drugs."
+        },
+        {
+         "q": "Rectal administration allows about 50% of the drug to:",
+         "options": [
+          "Bypass the liver, reducing first-pass effect",
+          "Be destroyed",
+          "Be excreted unchanged",
+          "Be absorbed completely"
+         ],
+         "answer": 0,
+         "explain": "Absorption is irregular and incomplete."
+        }
+       ]
+      },
+      {
+       "id": "pk_forms",
+       "name": "Dosage Forms",
+       "questions": [
+        {
+         "q": "Effervescent tablets release:",
+         "options": [
+          "Oxygen",
+          "Nitrogen",
+          "Heat only",
+          "CO2 when placed in water"
+         ],
+         "answer": 3,
+         "explain": "They contain acid substances and carbonates or bicarbonates."
+        },
+        {
+         "q": "Hard-shelled capsules are for:",
+         "options": [
+          "Oils",
+          "Gases",
+          "Dry, powdered ingredients",
+          "Suspensions"
+         ],
+         "answer": 2,
+         "explain": "Soft-shelled capsules contain oils."
+        },
+        {
+         "q": "A syrup is:",
+         "options": [
+          "A semi-solid emulsion",
+          "A concentrated aqueous solution of sugar",
+          "A solid mass that melts",
+          "A greasy ointment"
+         ],
+         "answer": 1,
+         "explain": "It masks the taste of active ingredients."
+        },
+        {
+         "q": "Creams are:",
+         "options": [
+          "Semi-solid emulsions of oil and water",
+          "Greasy, immiscible preparations",
+          "Gum-based solids",
+          "Gas aerosols"
+         ],
+         "answer": 0,
+         "explain": "Ointments are semi-solid, greasy and immiscible with skin secretions."
+        },
+        {
+         "q": "Suppositories:",
+         "options": [
+          "Are swallowed",
+          "Are inhaled",
+          "Are injected",
+          "Melt at body temperature in the rectum or vagina"
+         ],
+         "answer": 3,
+         "explain": "They are small solid medicated masses."
+        },
+        {
+         "q": "A nebulizer:",
+         "options": [
+          "Dissolves under the tongue",
+          "Is a rectal liquid",
+          "Turns liquid medicine into a mist by pumping air or oxygen through it",
+          "Is a solid tablet"
+         ],
+         "answer": 2,
+         "explain": "The vapor is inhaled."
+        }
+       ]
+      },
+      {
+       "id": "pk_dist",
+       "name": "Distribution & Excretion",
+       "questions": [
+        {
+         "q": "Delivery of drug to tissues is affected by:",
+         "options": [
+          "Only drug color",
+          "Cardiac output, regional blood flow, capillary permeability, tissue volume",
+          "Only dosage form",
+          "Only patient age"
+         ],
+         "answer": 1,
+         "explain": "Drugs distribute into interstitial and intracellular fluids."
+        },
+        {
+         "q": "Basic drugs bind mainly to:",
+         "options": [
+          "Alpha-1-acid glycoprotein",
+          "Albumin",
+          "Globulin",
+          "Hemoglobin"
+         ],
+         "answer": 0,
+         "explain": "Acidic drugs bind albumin.",
+         "hy": true
+        },
+        {
+         "q": "Acidic drugs bind mainly to:",
+         "options": [
+          "Alpha-1-acid glycoprotein",
+          "Transferrin",
+          "Fibrinogen",
+          "Albumin"
+         ],
+         "answer": 3,
+         "explain": "Basic drugs bind alpha-1-acid glycoprotein."
+        },
+        {
+         "q": "The most important organ of drug excretion is the:",
+         "options": [
+          "Liver",
+          "Lung",
+          "Kidney",
+          "Skin"
+         ],
+         "answer": 2,
+         "explain": "Excretory organs eliminate polar compounds more efficiently.",
+         "hy": true
+        },
+        {
+         "q": "The three processes of renal excretion are:",
+         "options": [
+          "Filtration, diffusion, osmosis",
+          "Glomerular filtration, tubular secretion, tubular reabsorption",
+          "Secretion, binding, storage",
+          "Filtration, metabolism, conjugation"
+         ],
+         "answer": 1,
+         "explain": "These determine renal drug clearance."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "9 · Pharmacokinetics and Pharmacodynamics",
+     "notes": "Clinical PK: bioavailability, volume of distribution, clearance, elimination. PD: receptors, agonists, partial/inverse agonists, affinity, dose-response, competitive antagonism.",
+     "sections": [
+      {
+       "id": "pd_pk",
+       "name": "Clinical Pharmacokinetics",
+       "questions": [
+        {
+         "q": "Which is NOT a clinical pharmacokinetic concept in the lecture?",
+         "options": [
+          "Receptor affinity",
+          "Bioavailability",
+          "Volume of distribution",
+          "Clearance"
+         ],
+         "answer": 0,
+         "explain": "The four are bioavailability, volume of distribution, clearance and elimination."
+        },
+        {
+         "q": "The most important concept when designing a long-term regimen is:",
+         "options": [
+          "Half-life only",
+          "Affinity",
+          "Potency",
+          "Clearance"
+         ],
+         "answer": 3,
+         "explain": "It should maintain steady state within a therapeutic window.",
+         "hy": true
+        },
+        {
+         "q": "Half-life (t1/2) is:",
+         "options": [
+          "The time for it to double",
+          "The time to reach peak",
+          "The time for plasma concentration to fall by 50%",
+          "The time to absorb the drug"
+         ],
+         "answer": 2,
+         "explain": "A key value for deciding dosing frequency.",
+         "hy": true
+        }
+       ]
+      },
+      {
+       "id": "pd_rec",
+       "name": "Receptors & Antagonism",
+       "questions": [
+        {
+         "q": "A receptor is:",
+         "options": [
+          "A drug metabolite",
+          "The cellular component with which a drug interacts to elicit a response",
+          "A plasma protein",
+          "A dosage form"
+         ],
+         "answer": 1,
+         "explain": "Physiological receptors normally bind endogenous ligands."
+        },
+        {
+         "q": "Agonists are drugs that:",
+         "options": [
+          "Bind receptors and mimic the endogenous signaling compound",
+          "Block the receptor only",
+          "Destroy the receptor",
+          "Are excreted unchanged"
+         ],
+         "answer": 0,
+         "explain": "Antagonists block the effect of agonists."
+        },
+        {
+         "q": "Primary agonists bind to:",
+         "options": [
+          "An allosteric site",
+          "A different cell",
+          "DNA",
+          "The same recognition site as the endogenous ligand"
+         ],
+         "answer": 3,
+         "explain": "Allosteric (allotopic) agonists bind a different region."
+        },
+        {
+         "q": "Partial agonists are:",
+         "options": [
+          "More effective than full agonists",
+          "Inactive",
+          "Only partially as effective as full agonists",
+          "Irreversible blockers"
+         ],
+         "answer": 2,
+         "explain": "They produce a submaximal response even at full receptor occupancy.",
+         "hy": true
+        },
+        {
+         "q": "Inverse agonists:",
+         "options": [
+          "Mimic endogenous agonists",
+          "Stabilize receptors in an inactive conformation",
+          "Bind only allosteric sites",
+          "Increase receptor number"
+         ],
+         "answer": 1,
+         "explain": "They reduce basal receptor activity."
+        },
+        {
+         "q": "Affinity is:",
+         "options": [
+          "The strength of the reversible drug-receptor interaction (measured by the dissociation constant)",
+          "The maximal effect",
+          "The dose needed for 50% effect",
+          "The rate of excretion"
+         ],
+         "answer": 0,
+         "explain": "Structure determines affinity, intrinsic activity and specificity.",
+         "hy": true
+        },
+        {
+         "q": "Tachyphylaxis is:",
+         "options": [
+          "Increased sensitivity",
+          "Receptor upregulation",
+          "Drug accumulation",
+          "Rapid complete tolerance, e.g. with nitrovasodilators for angina"
+         ],
+         "answer": 3,
+         "explain": "Chronic dosing may also cause receptor downregulation or desensitization."
+        },
+        {
+         "q": "A dose-response curve shows:",
+         "options": [
+          "Drug half-life",
+          "Absorption rate",
+          "The effect of a drug as a function of its concentration",
+          "Protein binding"
+         ],
+         "answer": 2,
+         "explain": "It is used to compare efficacy and potency."
+        },
+        {
+         "q": "Competitive antagonism causes:",
+         "options": [
+          "A downward shift of the maximum",
+          "A parallel shift of the agonist curve to the right with no change in maximal response",
+          "No change",
+          "A shift to the left"
+         ],
+         "answer": 1,
+         "explain": "The effect can be overcome by more agonist.",
+         "hy": true
+        },
+        {
+         "q": "The three common receptor types listed are:",
+         "options": [
+          "Enzymes, ion channels, membrane receptors",
+          "Enzymes, hormones, lipids",
+          "Ion channels, DNA, ribosomes",
+          "Carriers, plasma proteins, albumin"
+         ],
+         "answer": 0,
+         "explain": "These are the major drug targets."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "10 · The Living Cell",
+     "notes": "Cell membrane = phospholipid bilayer. Know transport types, organelle functions, the central dogma (DNA to RNA to protein), the cell cycle (G1, S, G2, mitosis) and checkpoints.",
+     "sections": [
+      {
+       "id": "cell_mem",
+       "name": "Membrane & Transport",
+       "questions": [
+        {
+         "q": "The smallest unit capable of performing life functions is the:",
+         "options": [
+          "Tissue",
+          "Organ",
+          "Molecule",
+          "Cell"
+         ],
+         "answer": 3,
+         "explain": "The 'building block of life'."
+        },
+        {
+         "q": "Prokaryotic cells differ from eukaryotic cells because they:",
+         "options": [
+          "Have a nucleus",
+          "Have a Golgi complex",
+          "Have no nucleus and no membrane-bound organelles (free DNA in a nucleoid)",
+          "Are always multicellular"
+         ],
+         "answer": 2,
+         "explain": "Examples: bacteria and archaea.",
+         "hy": true
+        },
+        {
+         "q": "The cell membrane is a:",
+         "options": [
+          "Single protein layer",
+          "Phospholipid bilayer",
+          "Cellulose layer",
+          "Chitin layer"
+         ],
+         "answer": 1,
+         "explain": "It has hydrophilic heads and hydrophobic tails."
+        },
+        {
+         "q": "Phospholipids are amphipathic, meaning they have:",
+         "options": [
+          "Both hydrophilic and hydrophobic parts",
+          "Only hydrophobic parts",
+          "Only hydrophilic parts",
+          "No charge"
+         ],
+         "answer": 0,
+         "explain": "Heads are polar (phosphate); tails are nonpolar."
+        },
+        {
+         "q": "Intracellular fluid makes up about what part of total body water?",
+         "options": [
+          "1/3",
+          "1/10",
+          "1/2",
+          "2/3"
+         ],
+         "answer": 3,
+         "explain": "The rest is extracellular fluid (interstitial, plasma, lymph)."
+        },
+        {
+         "q": "In simple diffusion, particles move:",
+         "options": [
+          "From low to high",
+          "Only with ATP",
+          "From high to low concentration",
+          "Only through carriers"
+         ],
+         "answer": 2,
+         "explain": "Equilibrium is reached after some time.",
+         "hy": true
+        },
+        {
+         "q": "Osmosis is:",
+         "options": [
+          "Movement of solutes with ATP",
+          "Diffusion of water across a selectively permeable membrane",
+          "Vesicle transport",
+          "Carrier-mediated solute transport"
+         ],
+         "answer": 1,
+         "explain": "Water moves from low solute to high solute concentration."
+        },
+        {
+         "q": "Facilitated diffusion requires:",
+         "options": [
+          "A carrier, and goes from high to low concentration",
+          "ATP",
+          "Movement against the gradient",
+          "Endocytosis"
+         ],
+         "answer": 0,
+         "explain": "Maximum transport depends on the number of carriers."
+        },
+        {
+         "q": "Primary active transport:",
+         "options": [
+          "Needs no energy",
+          "Uses a gradient from another solute",
+          "Moves water only",
+          "Uses ATP directly to move substances against the gradient"
+         ],
+         "answer": 3,
+         "explain": "Secondary active transport uses an existing gradient.",
+         "hy": true
+        }
+       ]
+      },
+      {
+       "id": "cell_org",
+       "name": "Organelles",
+       "questions": [
+        {
+         "q": "Ribosomes in human cells are:",
+         "options": [
+          "70S",
+          "100S",
+          "80S (60S and 40S subunits), the site of protein synthesis",
+          "Membrane-bound"
+         ],
+         "answer": 2,
+         "explain": "They may be attached to the rough ER.",
+         "hy": true
+        },
+        {
+         "q": "The rough ER is studded with ribosomes and is for:",
+         "options": [
+          "Lipid synthesis",
+          "Protein synthesis",
+          "Drug breakdown",
+          "Calcium storage"
+         ],
+         "answer": 1,
+         "explain": "The smooth ER handles lipids and drug breakdown."
+        },
+        {
+         "q": "The smooth ER is involved in:",
+         "options": [
+          "Lipid and cholesterol synthesis and breakdown of drugs",
+          "Protein synthesis",
+          "DNA replication",
+          "Ribosome assembly"
+         ],
+         "answer": 0,
+         "explain": "The sarcoplasmic reticulum is a special smooth ER storing calcium in muscle.",
+         "hy": true
+        },
+        {
+         "q": "The Golgi apparatus:",
+         "options": [
+          "Makes ATP",
+          "Digests wastes",
+          "Stores DNA",
+          "Modifies, packages and transports proteins (cis face receives, trans face releases)"
+         ],
+         "answer": 3,
+         "explain": "It is the 'protein packaging plant'.",
+         "hy": true
+        },
+        {
+         "q": "Lysosomes contain:",
+         "options": [
+          "Catalase",
+          "DNA",
+          "Digestive enzymes (the cell's 'suicide sacs')",
+          "Ribosomes"
+         ],
+         "answer": 2,
+         "explain": "Autophagy means the cell digests its own structures."
+        },
+        {
+         "q": "Peroxisomes break down hydrogen peroxide using:",
+         "options": [
+          "Ubiquitin",
+          "Catalase",
+          "ATP synthase",
+          "Lipase"
+         ],
+         "answer": 1,
+         "explain": "They detoxify harmful substances and process reactive oxygen species."
+        },
+        {
+         "q": "The proteasome is:",
+         "options": [
+          "Not an organelle; a protease complex that degrades proteins tagged with ubiquitin",
+          "A membrane-bound organelle",
+          "The site of ATP production",
+          "A ribosome"
+         ],
+         "answer": 0,
+         "explain": "Ubiquitin tags proteins for proteolysis."
+        },
+        {
+         "q": "Mitochondria are the site of:",
+         "options": [
+          "Protein synthesis",
+          "Lipid synthesis",
+          "Ribosome assembly",
+          "Oxidative phosphorylation (energy production)"
+         ],
+         "answer": 3,
+         "explain": "They have cristae, maternal DNA, and take part in apoptosis.",
+         "hy": true
+        },
+        {
+         "q": "The nucleolus is where:",
+         "options": [
+          "ATP is made",
+          "Lipids are stored",
+          "Ribosomes are synthesized",
+          "Proteins are digested"
+         ],
+         "answer": 2,
+         "explain": "It is a dense body inside the nucleus."
+        },
+        {
+         "q": "Centrioles are made of:",
+         "options": [
+          "Microfilaments",
+          "Microtubules (9 triplets) and form the spindle apparatus origin",
+          "Phospholipids",
+          "Ribosomes"
+         ],
+         "answer": 1,
+         "explain": "Two perpendicular centrioles form a centrosome."
+        },
+        {
+         "q": "Flagella function in:",
+         "options": [
+          "Locomotion, e.g. sperm cells",
+          "Moving mucus",
+          "Protein synthesis",
+          "Digestion"
+         ],
+         "answer": 0,
+         "explain": "Cilia move particles such as mucus and egg cells."
+        },
+        {
+         "q": "The cytoskeleton includes:",
+         "options": [
+          "Ribosomes and lysosomes",
+          "Golgi and ER",
+          "Nucleolus and nucleus",
+          "Microfilaments, intermediate filaments, microtubules"
+         ],
+         "answer": 3,
+         "explain": "It gives shape and positions organelles."
+        }
+       ]
+      },
+      {
+       "id": "cell_cyc",
+       "name": "Central Dogma & Cell Cycle",
+       "questions": [
+        {
+         "q": "The central dogma states that genetic information flows:",
+         "options": [
+          "Protein to RNA to DNA",
+          "RNA to DNA only",
+          "DNA to RNA to protein",
+          "DNA to protein to RNA"
+         ],
+         "answer": 2,
+         "explain": "Replication, transcription, translation.",
+         "hy": true
+        },
+        {
+         "q": "Transcription is:",
+         "options": [
+          "Protein synthesis",
+          "The synthesis of mRNA from DNA",
+          "DNA copying before division",
+          "Cell division"
+         ],
+         "answer": 1,
+         "explain": "Translation is protein synthesis."
+        },
+        {
+         "q": "Translation is:",
+         "options": [
+          "Protein synthesis from mRNA",
+          "mRNA synthesis",
+          "DNA replication",
+          "DNA repair"
+         ],
+         "answer": 0,
+         "explain": "It occurs at ribosomes."
+        },
+        {
+         "q": "Somatic cells are:",
+         "options": [
+          "Only sperm and egg cells",
+          "Only nerve cells",
+          "Only stem cells",
+          "All body cells except sperm and egg cells"
+         ],
+         "answer": 3,
+         "explain": "Germ cells are sperm and eggs."
+        },
+        {
+         "q": "Which is the longest stage of a cell's life?",
+         "options": [
+          "Prophase",
+          "Metaphase",
+          "Interphase",
+          "Telophase"
+         ],
+         "answer": 2,
+         "explain": "Interphase has G1, S and G2 phases.",
+         "hy": true
+        },
+        {
+         "q": "DNA replication happens during:",
+         "options": [
+          "G1",
+          "S (synthesis) phase",
+          "G2",
+          "M phase"
+         ],
+         "answer": 1,
+         "explain": "G1 and G2 are gap (preparatory) phases."
+        },
+        {
+         "q": "G0 is:",
+         "options": [
+          "A resting phase (temporary or permanent)",
+          "DNA replication",
+          "Mitosis",
+          "Cytokinesis"
+         ],
+         "answer": 0,
+         "explain": "Cells may leave the cycle in G0."
+        },
+        {
+         "q": "Which is the correct order of mitosis?",
+         "options": [
+          "Metaphase, prophase, telophase, anaphase",
+          "Anaphase, prophase, metaphase, telophase",
+          "Telophase, anaphase, metaphase, prophase",
+          "Prophase, metaphase, anaphase, telophase"
+         ],
+         "answer": 3,
+         "explain": "Cytokinesis follows telophase.",
+         "hy": true
+        },
+        {
+         "q": "In metaphase, chromosomes:",
+         "options": [
+          "Condense",
+          "Separate to the poles",
+          "Line up at the cell equator and attach to microtubules",
+          "Decondense"
+         ],
+         "answer": 2,
+         "explain": "The nuclear membrane is completely gone."
+        },
+        {
+         "q": "In anaphase:",
+         "options": [
+          "Chromosomes line up",
+          "Sister chromatids separate and move to opposite poles",
+          "Nuclei re-form",
+          "The nucleolus disappears"
+         ],
+         "answer": 1,
+         "explain": "Spindle fibers pull them apart."
+        },
+        {
+         "q": "In telophase:",
+         "options": [
+          "Two new nuclei form and chromosomes decondense",
+          "Chromatids separate",
+          "Chromosomes condense",
+          "DNA replicates"
+         ],
+         "answer": 0,
+         "explain": "The nuclear membrane and nucleoli reform."
+        },
+        {
+         "q": "Mitosis results in:",
+         "options": [
+          "Four different cells",
+          "Two different cells",
+          "One cell with double DNA",
+          "Two identical daughter cells"
+         ],
+         "answer": 3,
+         "explain": "Meiosis, in gametes, is a 'double division'."
+        },
+        {
+         "q": "Which checkpoint ensures all chromatids are attached to microtubules before separation?",
+         "options": [
+          "G1 checkpoint",
+          "G2 checkpoint",
+          "M (metaphase) checkpoint",
+          "S checkpoint"
+         ],
+         "answer": 2,
+         "explain": "G1: ready for DNA synthesis. G2: ready for mitosis.",
+         "hy": true
+        }
+       ]
+      }
+     ]
     }
    ]
   }
