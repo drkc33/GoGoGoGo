@@ -1,15 +1,1925 @@
-{"title":"My Reviewers","tagline":"Practice, notes and mock exams","courses":[
-{"name":"Intro to Medicine Life","tag":"Midterm","topics":[
-{"name":"1 · Ancient Medicine","notes":"Mesopotamian medicine mixed spiritual healing (prayers, incantations, amulets, divination) with practical treatment (herbal remedies, wound care).","sections":[
-{"id":"meso","name":"Mesopotamia","questions":[
-{"q":"Which of these belongs to Mesopotamian SPIRITUAL medicine?","options":["Cleanliness and physical treatments","Surgery and dentistry","Herbal remedies and wound treatment","Incantations, amulets, divination and omens"],"answer":3,"explain":"Spiritual medicine used prayers, incantations, spells, amulets, astrology, divination and omens. The other options are practical medicine.","hy":true},
-{"q":"Which of these belongs to Mesopotamian PRACTICAL medicine?","options":["Omens","Herbal remedies and wound treatment","Amulets","Prayers to gods"],"answer":1,"explain":"Practical medicine covered herbal remedies and wound care."}]},
-{"id":"egypt","name":"Ancient Egypt","questions":[
-{"q":"The Ebers Papyrus is best known as a text on what?","options":["Military strategy","Medical remedies and treatments","Tax records","Star charts"],"answer":1,"explain":"The Ebers Papyrus is one of the oldest medical texts, full of remedies and treatments.","hy":true}]},
-{"id":"greece","name":"Ancient Greece","questions":[
-{"q":"Who is traditionally called the Father of Medicine?","options":["Galen","Hippocrates","Imhotep","Sushruta"],"answer":1,"explain":"Hippocrates of Kos is traditionally called the Father of Medicine."}]},
-{"id":"india","name":"Ancient India (Ayurveda)","questions":[
-{"q":"Which set lists the three doshas of Ayurveda?","options":["Vata, pitta, kapha","Blood, phlegm, bile","Yin, yang, qi","Sattva, rajas, tamas"],"answer":0,"explain":"Ayurveda describes vata, pitta and kapha as the three doshas."}]}]}]},
-{"name":"Intro to Psychology","tag":"Evals","topics":[{"name":"1 · Learning","notes":"Add your notes here.","sections":[{"id":"cond","name":"Conditioning","questions":[
-{"q":"Who is associated with classical conditioning experiments using dogs?","options":["Skinner","Pavlov","Freud","Piaget"],"answer":1,"explain":"Ivan Pavlov studied classical conditioning in dogs."}]}]}]}
-]}
+{
+ "title": "My Reviewers",
+ "tagline": "Practice, notes and mock exams",
+ "courses": [
+  {
+   "name": "General Botany Laboratory",
+   "tag": "Reviewer",
+   "topics": [
+    {
+     "name": "1 · Drug Toxicity and Poisoning",
+     "notes": "Therapeutic index = TD50/ED50. Margin of safety = LD1/ED99. Toxicity types: dose-dependent, allergic, idiosyncratic, drug-drug interaction. Poisoning care: ABCDE, stop exposure, decontaminate, give the antidote.",
+     "sections": [
+      {
+       "id": "ti",
+       "name": "Therapeutic Index & Safety",
+       "questions": [
+        {
+         "q": "How is the therapeutic index (TI) computed?",
+         "options": [
+          "ED50 / TD50",
+          "TD50 / ED50",
+          "LD1 / ED99",
+          "ED99 / LD1"
+         ],
+         "answer": 1,
+         "explain": "TI = TD50/ED50. With ED50 = 2 and TD50 = 6, TI = 3.",
+         "hy": true
+        },
+        {
+         "q": "Margin of safety is computed as:",
+         "options": [
+          "LD1 / ED99",
+          "TD50 / ED50",
+          "LD50 / ED50",
+          "ED99 / LD1"
+         ],
+         "answer": 0,
+         "explain": "It uses ED99 for the desired effect and LD1 for the undesired effect.",
+         "hy": true
+        },
+        {
+         "q": "Drug A has LD1/ED99 = 1 and Drug B has 0.0002. Which is safer?",
+         "options": [
+          "Drug B, because its value is smaller",
+          "Both are equally safe",
+          "Cannot be told",
+          "Drug A, because its margin of safety is larger"
+         ],
+         "answer": 3,
+         "explain": "A larger margin of safety means a safer drug, so Drug B is much less safe."
+        },
+        {
+         "q": "Which statement about the therapeutic index is true?",
+         "options": [
+          "It uses the 99% effective dose",
+          "It uses the 1% lethal dose",
+          "It compares the toxic dose to the effective dose in 50% of individuals",
+          "It compares ED50 to ED99"
+         ],
+         "answer": 2,
+         "explain": "TI uses TD50 over ED50 from the quantal dose-response curve."
+        }
+       ]
+      },
+      {
+       "id": "types",
+       "name": "Types of Toxicity",
+       "questions": [
+        {
+         "q": "Which is NOT one of the four types of therapeutic drug toxicity?",
+         "options": [
+          "Dose-dependent",
+          "Environmental",
+          "Allergic",
+          "Idiosyncratic"
+         ],
+         "answer": 1,
+         "explain": "The four types are dose-dependent, allergic, idiosyncratic and drug-drug interactions.",
+         "hy": true
+        },
+        {
+         "q": "In dose-dependent reactions, toxicity is proportional to:",
+         "options": [
+          "Drug concentration in the body and duration of exposure",
+          "Patient age only",
+          "Genetic variation only",
+          "Route of excretion"
+         ],
+         "answer": 0,
+         "explain": "Both concentration and duration of exposure matter."
+        },
+        {
+         "q": "CNS depression from barbiturates (sedation to coma to death) is an example of:",
+         "options": [
+          "Pathological toxicity",
+          "Genotoxicity",
+          "Idiosyncrasy",
+          "Pharmacological toxicity"
+         ],
+         "answer": 3,
+         "explain": "It is dose-dependent: the higher the barbiturate dose, the deeper the depression."
+        },
+        {
+         "q": "Tardive dyskinesia from antipsychotics depends mainly on:",
+         "options": [
+          "Single high dose",
+          "Body weight",
+          "Duration of exposure",
+          "Route of administration"
+         ],
+         "answer": 2,
+         "explain": "It appears after months to years of use."
+        },
+        {
+         "q": "Which drug class is a classic cause of phototoxicity?",
+         "options": [
+          "Penicillins",
+          "Tetracyclines",
+          "Barbiturates",
+          "Opioids"
+         ],
+         "answer": 1,
+         "explain": "Tetracyclines are the phototoxicity example in the lecture."
+        },
+        {
+         "q": "Which extrapyramidal reaction appears first (hours to 5 days)?",
+         "options": [
+          "Acute dystonia",
+          "Parkinsonism",
+          "Akathisia",
+          "Tardive dyskinesia"
+         ],
+         "answer": 0,
+         "explain": "Dystonia: hours to 5 days. Parkinsonism: 5-30 days. Akathisia: 5-60 days. Tardive dyskinesia: months to years.",
+         "hy": true
+        },
+        {
+         "q": "Lip-smacking and worm-like tongue movements are signs of:",
+         "options": [
+          "Acute dystonia",
+          "Akathisia",
+          "Parkinsonism",
+          "Tardive dyskinesia"
+         ],
+         "answer": 3,
+         "explain": "Also called 'fly-catching' tongue movements."
+        },
+        {
+         "q": "Compulsive, repetitive motions with agitation describe:",
+         "options": [
+          "Acute dystonia",
+          "Tardive dyskinesia",
+          "Akathisia",
+          "Parkinsonism"
+         ],
+         "answer": 2,
+         "explain": "Akathisia is restlessness and inability to sit still."
+        },
+        {
+         "q": "The toxic metabolite of acetaminophen that causes hepatocyte necrosis is:",
+         "options": [
+          "Glucuronide",
+          "NAPQI",
+          "Mercapturic acid",
+          "Cysteine conjugate"
+         ],
+         "answer": 1,
+         "explain": "CYP2E1 converts a small fraction of APAP to NAPQI. Glutathione normally detoxifies it.",
+         "hy": true
+        },
+        {
+         "q": "Chemotherapy agents that injure DNA and may cause mutagenic or carcinogenic effects show:",
+         "options": [
+          "Genotoxic toxicity",
+          "Pharmacological toxicity",
+          "Pathological toxicity",
+          "Allergic toxicity"
+         ],
+         "answer": 0,
+         "explain": "Genotoxic effects come from ionizing radiation, environmental chemicals and chemotherapy."
+        }
+       ]
+      },
+      {
+       "id": "allergy",
+       "name": "Allergic & Idiosyncratic",
+       "questions": [
+        {
+         "q": "Type I hypersensitivity is mediated by:",
+         "options": [
+          "IgG or IgM",
+          "Immune complexes",
+          "T cells",
+          "IgE"
+         ],
+         "answer": 3,
+         "explain": "IgE on mast cells and basophils; onset within 1 hour; e.g. anaphylaxis.",
+         "hy": true
+        },
+        {
+         "q": "Hemolytic anemia is an example of which hypersensitivity type?",
+         "options": [
+          "Type I",
+          "Type III",
+          "Type II (cytolytic)",
+          "Type IV"
+         ],
+         "answer": 2,
+         "explain": "Type II is IgG/IgM cytotoxic, onset hours to days."
+        },
+        {
+         "q": "Serum sickness and SLE are examples of:",
+         "options": [
+          "Type I",
+          "Type III (Arthus, immune complex)",
+          "Type II",
+          "Type IV"
+         ],
+         "answer": 1,
+         "explain": "Immune complex mediated, onset 1-3 weeks."
+        },
+        {
+         "q": "Rash and Stevens-Johnson syndrome are examples of:",
+         "options": [
+          "Type IV (delayed, T-cell mediated)",
+          "Type I",
+          "Type II",
+          "Type III"
+         ],
+         "answer": 0,
+         "explain": "Type IV takes days to weeks."
+        },
+        {
+         "q": "Which hypersensitivity type has the fastest onset?",
+         "options": [
+          "Type II",
+          "Type III",
+          "Type IV",
+          "Type I"
+         ],
+         "answer": 3,
+         "explain": "Type I occurs within 1 hour."
+        },
+        {
+         "q": "Histamine released in type I reactions causes:",
+         "options": [
+          "Vasoconstriction and bradycardia",
+          "Decreased capillary permeability",
+          "Bronchoconstriction and vasodilation",
+          "Decreased gastric acid"
+         ],
+         "answer": 2,
+         "explain": "Histamine causes vasodilation, increased permeability, bronchoconstriction, swelling and more gastric acid."
+        },
+        {
+         "q": "Idiosyncrasy is:",
+         "options": [
+          "A dose-related predictable effect",
+          "An abnormal reactivity to a chemical that is peculiar to a given individual",
+          "An immune reaction mediated by IgE",
+          "A drug-drug interaction"
+         ],
+         "answer": 1,
+         "explain": "Example in the lecture: primaquine causing hemolytic anemia in susceptible individuals."
+        }
+       ]
+      },
+      {
+       "id": "ddi",
+       "name": "Drug-Drug Interactions",
+       "questions": [
+        {
+         "q": "Which is NOT a level of drug-drug interaction in the lecture?",
+         "options": [
+          "Excretion by the skin",
+          "Absorption",
+          "Protein binding",
+          "Metabolism"
+         ],
+         "answer": 0,
+         "explain": "The five are absorption, protein binding, metabolism, receptor binding and therapeutic action."
+        },
+        {
+         "q": "Ranitidine can increase absorption of basic drugs such as triazolam because it:",
+         "options": [
+          "Lowers GI pH",
+          "Speeds gastric emptying",
+          "Binds the drug",
+          "Raises GI pH"
+         ],
+         "answer": 3,
+         "explain": "H2 blockers reduce acid and raise gastric pH."
+        },
+        {
+         "q": "A second drug with higher protein affinity displaces the first drug. What happens to the first drug?",
+         "options": [
+          "Less free drug",
+          "No change",
+          "More free drug in plasma",
+          "It is excreted faster only"
+         ],
+         "answer": 2,
+         "explain": "Free drug is the active fraction, so toxicity can rise.",
+         "hy": true
+        },
+        {
+         "q": "Which drug is NOT listed as highly protein bound?",
+         "options": [
+          "Warfarin",
+          "Buprenorphine",
+          "Phenytoin",
+          "Valproic acid"
+         ],
+         "answer": 1,
+         "explain": "Aspirin, barbiturates, phenytoin, sulfonamides, valproic acid and warfarin are listed."
+        },
+        {
+         "q": "Ethanol is a potent inducer of:",
+         "options": [
+          "CYP2E1",
+          "CYP3A4",
+          "CYP2D6",
+          "CYP1A2"
+         ],
+         "answer": 0,
+         "explain": "This increases NAPQI formation from acetaminophen."
+        },
+        {
+         "q": "Buprenorphine is useful in opioid addiction because it is:",
+         "options": [
+          "A full agonist",
+          "A pure antagonist",
+          "An enzyme inducer",
+          "A partial agonist/antagonist with very high receptor affinity"
+         ],
+         "answer": 3,
+         "explain": "It blocks the euphoria from other narcotics."
+        },
+        {
+         "q": "Which are the three kinds of interaction of therapeutic action?",
+         "options": [
+          "Additive, competitive, absolute",
+          "Synergistic, dispositional, chemical",
+          "Additive, synergistic, antagonistic",
+          "Agonistic, additive, partial"
+         ],
+         "answer": 2,
+         "explain": "Shown on the isobologram."
+        },
+        {
+         "q": "Which are the types of antagonism listed?",
+         "options": [
+          "Functional, additive, genetic, receptor",
+          "Functional, chemical, dispositional, receptor",
+          "Chemical, synergistic, receptor, absorption",
+          "Dispositional, additive, physiological, genetic"
+         ],
+         "answer": 1,
+         "explain": "Function (physiological), chemical, dispositional and receptor antagonism."
+        },
+        {
+         "q": "EDTA binding metal ions such as lead is what type of antagonism?",
+         "options": [
+          "Chemical antagonism",
+          "Receptor antagonism",
+          "Functional antagonism",
+          "Dispositional antagonism"
+         ],
+         "answer": 0,
+         "explain": "A chelator directly reacts with the metal to form a stable water-soluble complex."
+        },
+        {
+         "q": "An antagonist that cannot be overcome by adding more agonist is:",
+         "options": [
+          "Competitive",
+          "Partial agonist",
+          "Full agonist",
+          "Noncompetitive"
+         ],
+         "answer": 3,
+         "explain": "Noncompetitive antagonism is unsurmountable."
+        }
+       ]
+      },
+      {
+       "id": "prev",
+       "name": "Prevention & Treatment",
+       "questions": [
+        {
+         "q": "Medication errors are how much more common than adverse drug reactions?",
+         "options": [
+          "2-5 times",
+          "10-20 times",
+          "50-100 times",
+          "About equal"
+         ],
+         "answer": 2,
+         "explain": "This is why the five rights matter."
+        },
+        {
+         "q": "Which is one of the five rights of safe medication?",
+         "options": [
+          "Right pharmacist",
+          "Right route",
+          "Right brand",
+          "Right color"
+         ],
+         "answer": 1,
+         "explain": "Right drug, patient, dose, route and time.",
+         "hy": true
+        },
+        {
+         "q": "A passive poisoning prevention strategy:",
+         "options": [
+          "Needs no behavior change, e.g. child-resistant packaging",
+          "Needs sustained adaptation",
+          "Requires parent supervision",
+          "Is teaching about poisons"
+         ],
+         "answer": 0,
+         "explain": "Active strategies need sustained adaptation by the person."
+        },
+        {
+         "q": "In the ABCDE of poisoning, D stands for:",
+         "options": [
+          "Decontamination",
+          "Drug level",
+          "Dosing",
+          "Disability (assess CNS dysfunction)"
+         ],
+         "answer": 3,
+         "explain": "A airway, B breathing, C circulation, D disability, E exposure (toxidrome)."
+        },
+        {
+         "q": "The first step in decontamination is to:",
+         "options": [
+          "Give activated charcoal",
+          "Do gastric lavage",
+          "Stop the ongoing exposure",
+          "Induce vomiting"
+         ],
+         "answer": 2,
+         "explain": "Wash eyes and skin copiously; GI decontamination comes after.",
+         "hy": true
+        },
+        {
+         "q": "Antidote for acetaminophen poisoning:",
+         "options": [
+          "Atropine",
+          "Acetylcysteine",
+          "Naloxone",
+          "Flumazenil"
+         ],
+         "answer": 1,
+         "explain": "It replenishes glutathione.",
+         "hy": true
+        },
+        {
+         "q": "Antidote for organophosphate and carbamate pesticide poisoning:",
+         "options": [
+          "Atropine (with pralidoxime)",
+          "Naloxone",
+          "Fomepizole",
+          "Deferoxamine"
+         ],
+         "answer": 0,
+         "explain": "Atropine blocks muscarinic effects; pralidoxime reactivates AChE for organophosphates.",
+         "hy": true
+        },
+        {
+         "q": "Antidote for opioid poisoning:",
+         "options": [
+          "Flumazenil",
+          "Glucagon",
+          "Vitamin K",
+          "Naloxone"
+         ],
+         "answer": 3,
+         "explain": "Naloxone is an opioid antagonist.",
+         "hy": true
+        },
+        {
+         "q": "Antidote for benzodiazepine poisoning:",
+         "options": [
+          "Naloxone",
+          "Physostigmine",
+          "Flumazenil",
+          "Atropine"
+         ],
+         "answer": 2,
+         "explain": "Flumazenil blocks the benzodiazepine site."
+        },
+        {
+         "q": "Antidote for iron poisoning:",
+         "options": [
+          "Dimercaprol",
+          "Deferoxamine",
+          "Penicillamine",
+          "Fomepizole"
+         ],
+         "answer": 1,
+         "explain": "Deferoxamine chelates iron."
+        },
+        {
+         "q": "Antidote for methanol or ethylene glycol poisoning:",
+         "options": [
+          "Fomepizole (or ethanol)",
+          "Acetylcysteine",
+          "Leucovorin",
+          "Methylene blue"
+         ],
+         "answer": 0,
+         "explain": "They inhibit alcohol dehydrogenase."
+        },
+        {
+         "q": "Antidote for coumarin (warfarin) toxicity:",
+         "options": [
+          "Protamine",
+          "Glucagon",
+          "Atropine",
+          "Vitamin K1"
+         ],
+         "answer": 3,
+         "explain": "Vitamin K1 (phytonadione) restores clotting factors."
+        },
+        {
+         "q": "Antidote for methotrexate toxicity:",
+         "options": [
+          "Acetylcysteine",
+          "Pyridoxine",
+          "Leucovorin",
+          "Octreotide"
+         ],
+         "answer": 2,
+         "explain": "Leucovorin calcium rescues folate-dependent cells."
+        },
+        {
+         "q": "Antidote for beta-blocker overdose:",
+         "options": [
+          "Naloxone",
+          "Glucagon",
+          "Atropine",
+          "Insulin"
+         ],
+         "answer": 1,
+         "explain": "Glucagon hydrochloride is listed for beta-adrenergic antagonists."
+        },
+        {
+         "q": "Isoniazid-induced seizures are treated with:",
+         "options": [
+          "Pyridoxine (vitamin B6)",
+          "Thiamine",
+          "Vitamin K",
+          "Leucovorin"
+         ],
+         "answer": 0,
+         "explain": "Pyridoxine hydrochloride is the antidote."
+        },
+        {
+         "q": "Cyanide poisoning is treated with:",
+         "options": [
+          "Methylene blue",
+          "Dantrolene",
+          "Naloxone",
+          "Sodium thiosulfate or hydroxocobalamin"
+         ],
+         "answer": 3,
+         "explain": "Both are listed antidotes for cyanide."
+        },
+        {
+         "q": "Methemoglobinemia is treated with:",
+         "options": [
+          "Hyperbaric oxygen",
+          "Penicillamine",
+          "Methylene blue",
+          "Flumazenil"
+         ],
+         "answer": 2,
+         "explain": "Methylene blue is the listed antidote."
+        },
+        {
+         "q": "Carbon monoxide poisoning is treated with:",
+         "options": [
+          "Methylene blue",
+          "Hyperbaric oxygen",
+          "Acetylcysteine",
+          "Fomepizole"
+         ],
+         "answer": 1,
+         "explain": "Listed in the antidote table."
+        },
+        {
+         "q": "Digoxin toxicity (cardiac glycosides) is treated with:",
+         "options": [
+          "Digoxin immune Fab",
+          "Glucagon",
+          "Atropine",
+          "Calcium gluconate"
+         ],
+         "answer": 0,
+         "explain": "An antibody fragment binds digoxin."
+        },
+        {
+         "q": "Malignant hyperthermia is treated with:",
+         "options": [
+          "Bromocriptine",
+          "Benztropine",
+          "Atropine",
+          "Dantrolene"
+         ],
+         "answer": 3,
+         "explain": "Bromocriptine is for neuroleptic malignant syndrome."
+        },
+        {
+         "q": "Drug-induced dystonia is treated with:",
+         "options": [
+          "Dantrolene",
+          "Naloxone",
+          "Benztropine or diphenhydramine",
+          "Fomepizole"
+         ],
+         "answer": 2,
+         "explain": "Both are listed antidotes."
+        },
+        {
+         "q": "Lead poisoning can be treated with:",
+         "options": [
+          "Naloxone",
+          "Dimercaprol, succimer, EDTA or penicillamine",
+          "Atropine",
+          "Flumazenil"
+         ],
+         "answer": 1,
+         "explain": "They are chelating agents."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "2 · Drug Metabolism",
+     "notes": "Phase 1 (CYPs) = oxidation, reduction, hydrolysis; adds functional groups. Phase 2 = conjugation; improves water solubility. Phase 3 = transport (ABC transporters). CYP3A4 handles over 50% of drugs.",
+     "sections": [
+      {
+       "id": "basics",
+       "name": "Xenobiotics & Phases",
+       "questions": [
+        {
+         "q": "Xenobiotics are:",
+         "options": [
+          "Substances foreign to the body",
+          "Normal hormones",
+          "Dietary vitamins",
+          "Endogenous enzymes"
+         ],
+         "answer": 0,
+         "explain": "Drugs use the same enzymes and transporters used for dietary constituents."
+        },
+        {
+         "q": "Phase 1 reactions include:",
+         "options": [
+          "Conjugation only",
+          "Glucuronidation only",
+          "Transport only",
+          "Oxidation, reduction, hydrolysis"
+         ],
+         "answer": 3,
+         "explain": "They introduce functional groups such as -OH, -COOH, -SH, -O- or NH2.",
+         "hy": true
+        },
+        {
+         "q": "Phase 2 reactions are called:",
+         "options": [
+          "Oxidation",
+          "Hydrolysis",
+          "Conjugation",
+          "Reduction"
+         ],
+         "answer": 2,
+         "explain": "Phase 2 attaches a polar group to make the metabolite more water soluble.",
+         "hy": true
+        },
+        {
+         "q": "What is the main effect of phase 2 metabolism?",
+         "options": [
+          "More lipophilicity",
+          "Greater water solubility for elimination",
+          "Activation of every drug",
+          "Protein binding"
+         ],
+         "answer": 1,
+         "explain": "This helps excretion in urine or bile."
+        },
+        {
+         "q": "Phase 1 usually does what to a drug's biological properties?",
+         "options": [
+          "Dramatically alters them (inactivation) but adds little water solubility",
+          "Makes it very water soluble",
+          "Has no effect",
+          "Always activates it"
+         ],
+         "answer": 0,
+         "explain": "The 4-hydroxyphenytoin example is only slightly soluble."
+        },
+        {
+         "q": "Phase 3 of hepatic drug metabolism is:",
+         "options": [
+          "Oxidation by CYP450",
+          "Glucuronidation",
+          "Hydrolysis",
+          "Transport by ABC transporters"
+         ],
+         "answer": 3,
+         "explain": "Followed by excretion in urine or bile."
+        }
+       ]
+      },
+      {
+       "id": "cyp",
+       "name": "Phase 1: CYPs and FMOs",
+       "questions": [
+        {
+         "q": "CYP enzymes are:",
+         "options": [
+          "Flavoproteins",
+          "Metalloproteases",
+          "Heme-containing proteins (hemoproteins)",
+          "Transferases"
+         ],
+         "answer": 2,
+         "explain": "Heme is bound noncovalently to a polypeptide chain."
+        },
+        {
+         "q": "In CYP3A4, what does the '3' represent?",
+         "options": [
+          "Subfamily",
+          "Family",
+          "Gene number",
+          "Species"
+         ],
+         "answer": 1,
+         "explain": "3 = family, A = subfamily, 4 = gene.",
+         "hy": true
+        },
+        {
+         "q": "Which CYP metabolizes over 50% of drugs?",
+         "options": [
+          "CYP3A4",
+          "CYP2D6",
+          "CYP2E1",
+          "CYP19"
+         ],
+         "answer": 0,
+         "explain": "CYP3A4/5 is the biggest slice of phase 1 metabolism.",
+         "hy": true
+        },
+        {
+         "q": "The most active CYPs for drug metabolism are in:",
+         "options": [
+          "CYP19, CYP11 and CYP17",
+          "CYP4, CYP5 and CYP7",
+          "CYP21 only",
+          "CYP2C, CYP2D and CYP3A"
+         ],
+         "answer": 3,
+         "explain": "Families 1, 2 and 3 are the most important for metabolism."
+        },
+        {
+         "q": "CYP19 (aromatase) is inhibited by:",
+         "options": [
+          "Ketoconazole",
+          "Rifampin",
+          "Anastrozole",
+          "Phenytoin"
+         ],
+         "answer": 2,
+         "explain": "Aromatase converts androgens to estrogens."
+        },
+        {
+         "q": "Which is a CYP inducer?",
+         "options": [
+          "Ketoconazole",
+          "Rifampin",
+          "Cimetidine",
+          "Erythromycin"
+         ],
+         "answer": 1,
+         "explain": "Inducers: barbiturates, St. John's wort, carbamazepine, rifampin, chronic alcohol, phenytoin, griseofulvin, phenobarbital, sulfonylureas.",
+         "hy": true
+        },
+        {
+         "q": "Which is a CYP inhibitor?",
+         "options": [
+          "Ketoconazole",
+          "Carbamazepine",
+          "Phenobarbital",
+          "St. John's wort"
+         ],
+         "answer": 0,
+         "explain": "Inhibitors include valproate, isoniazid, cimetidine, ketoconazole, fluconazole, erythromycin, omeprazole, grapefruit juice.",
+         "hy": true
+        },
+        {
+         "q": "St. John's wort affects CYP3A4 substrates by:",
+         "options": [
+          "Inhibiting it",
+          "Blocking absorption",
+          "Binding plasma proteins",
+          "Inducing the enzyme so they are metabolized faster"
+         ],
+         "answer": 3,
+         "explain": "Lower drug levels result."
+        },
+        {
+         "q": "Which phase 1 enzyme family is a minor contributor and gives benign products?",
+         "options": [
+          "CYP3A",
+          "UGT",
+          "Flavin-containing monooxygenases (FMOs)",
+          "GST"
+         ],
+         "answer": 2,
+         "explain": "FMO3 is the most abundant; it metabolizes nicotine, cimetidine, ranitidine, clozapine and itopride."
+        }
+       ]
+      },
+      {
+       "id": "phase2",
+       "name": "Phase 2: Conjugation",
+       "questions": [
+        {
+         "q": "UGT enzymes transfer which group?",
+         "options": [
+          "Sulfate from PAPS",
+          "Glucuronic acid from UDP-GA",
+          "Acetyl from acetyl CoA",
+          "Methyl from SAM"
+         ],
+         "answer": 1,
+         "explain": "This forms glucuronides.",
+         "hy": true
+        },
+        {
+         "q": "UGT1A1 is responsible for glucuronidation of:",
+         "options": [
+          "Bilirubin",
+          "Cholesterol",
+          "Isoniazid",
+          "Dopamine"
+         ],
+         "answer": 0,
+         "explain": "Defects cause Gilbert and Crigler-Najjar syndromes.",
+         "hy": true
+        },
+        {
+         "q": "Sulfation uses which sulfate donor?",
+         "options": [
+          "UDP-GA",
+          "SAM",
+          "Glutathione",
+          "PAPS"
+         ],
+         "answer": 3,
+         "explain": "SULT enzymes use PAPS."
+        },
+        {
+         "q": "SULT2A1 in the fetal adrenal produces DHEA sulfate (DHEAS), needed for:",
+         "options": [
+          "Bilirubin conjugation",
+          "Keratinocyte differentiation",
+          "Placental estrogen synthesis",
+          "Insulin secretion"
+         ],
+         "answer": 2,
+         "explain": "Needed in the second half of pregnancy."
+        },
+        {
+         "q": "Glutathione is a tripeptide of:",
+         "options": [
+          "Glutamate, lysine and alanine",
+          "Glutamate, cysteine and glycine",
+          "Cysteine, serine and glycine",
+          "Aspartate, cysteine and glycine"
+         ],
+         "answer": 1,
+         "explain": "Its thiol group on cysteine binds electrophiles."
+        },
+        {
+         "q": "In acetaminophen overdose, N-acetylcysteine helps by:",
+         "options": [
+          "Replenishing glutathione to detoxify NAPQI",
+          "Inducing CYP2E1",
+          "Blocking glucuronidation",
+          "Binding NAPQI in the gut"
+         ],
+         "answer": 0,
+         "explain": "Glutathione conjugation converts NAPQI to non-toxic metabolites.",
+         "hy": true
+        },
+        {
+         "q": "N-acetyltransferases metabolize drugs containing:",
+         "options": [
+          "A carboxyl group",
+          "A halogen",
+          "A sulfhydryl group",
+          "An aromatic amine or hydrazine group"
+         ],
+         "answer": 3,
+         "explain": "Example: isoniazid."
+        },
+        {
+         "q": "The acetylator phenotype is most relevant to which drug?",
+         "options": [
+          "Warfarin",
+          "Phenytoin",
+          "Isoniazid",
+          "Codeine"
+         ],
+         "answer": 2,
+         "explain": "Slow acetylators have higher isoniazid levels.",
+         "hy": true
+        },
+        {
+         "q": "Methylation uses which methyl donor?",
+         "options": [
+          "PAPS",
+          "S-adenosylmethionine (SAM)",
+          "UDP-glucuronate",
+          "Acetyl CoA"
+         ],
+         "answer": 1,
+         "explain": "It can be O-, N- or S-methylation."
+        },
+        {
+         "q": "Which enzyme methylates catecholamines like norepinephrine?",
+         "options": [
+          "COMT",
+          "TH",
+          "DBH",
+          "AADC"
+         ],
+         "answer": 0,
+         "explain": "COMT produces normetanephrine, metanephrine and methoxytyramine."
+        },
+        {
+         "q": "TPMT is important in the metabolism of:",
+         "options": [
+          "Isoniazid",
+          "Acetaminophen",
+          "Phenytoin",
+          "6-Mercaptopurine / azathioprine"
+         ],
+         "answer": 3,
+         "explain": "TPMT methylates 6-MP to an inactive metabolite."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "3 · Autonomics Part 1",
+     "notes": "ANS: sympathetic = fight or flight; parasympathetic = rest and digest. ACh is the transmitter at all autonomic ganglia, parasympathetic endings and the NMJ. Cholinergic drugs can be direct (muscarinic, nicotinic) or indirect (AChE inhibitors).",
+     "sections": [
+      {
+       "id": "basics",
+       "name": "ANS & Acetylcholine",
+       "questions": [
+        {
+         "q": "The ANS controls:",
+         "options": [
+          "Voluntary movement",
+          "Special senses only",
+          "Involuntary, unconscious regulation of internal functions",
+          "Conscious thought"
+         ],
+         "answer": 2,
+         "explain": "It has sympathetic and parasympathetic divisions."
+        },
+        {
+         "q": "The sympathetic division is best known for:",
+         "options": [
+          "Rest and digest",
+          "Fight or flight",
+          "Voluntary movement",
+          "Sleep"
+         ],
+         "answer": 1,
+         "explain": "Parasympathetic is rest and digest.",
+         "hy": true
+        },
+        {
+         "q": "Anticholinergic toxicity: 'HOT as a hare, DRY as a bone, RED as a beet' - what does 'BLIND as a bat' mean?",
+         "options": [
+          "Cycloplegia",
+          "Miosis",
+          "Retinal damage",
+          "Optic neuritis"
+         ],
+         "answer": 0,
+         "explain": "Also MAD as a hatter (CNS toxicity).",
+         "hy": true
+        },
+        {
+         "q": "ACh is the primary transmitter at:",
+         "options": [
+          "Sympathetic postganglionic endings only",
+          "Parasympathetic endings only",
+          "The CNS only",
+          "All autonomic ganglia, parasympathetic endings and the NMJ"
+         ],
+         "answer": 3,
+         "explain": "It is also the exception at eccrine sweat glands (sympathetic but cholinergic)."
+        },
+        {
+         "q": "Which drug blocks the choline transporter (CHT)?",
+         "options": [
+          "Vesamicol",
+          "Botulinum toxin",
+          "Hemicholinium",
+          "Neostigmine"
+         ],
+         "answer": 2,
+         "explain": "CHT is a Na+/choline symporter."
+        },
+        {
+         "q": "Vesamicol blocks:",
+         "options": [
+          "CHT",
+          "VAT (vesicular ACh transporter)",
+          "AChE",
+          "ChAT"
+         ],
+         "answer": 1,
+         "explain": "ACh storage in vesicles.",
+         "hy": true
+        },
+        {
+         "q": "Botulinum toxin blocks ACh:",
+         "options": [
+          "Release (interferes with SNARE proteins)",
+          "Synthesis",
+          "Storage",
+          "Breakdown"
+         ],
+         "answer": 0,
+         "explain": "Release needs Ca2+ and VAMP/SNARE proteins.",
+         "hy": true
+        },
+        {
+         "q": "AChE degrades ACh into:",
+         "options": [
+          "Choline and glycine",
+          "Acetyl CoA and glutamate",
+          "Tyrosine and acetate",
+          "Choline and acetate"
+         ],
+         "answer": 3,
+         "explain": "Choline is recycled by CHT."
+        },
+        {
+         "q": "Which synthesizes ACh?",
+         "options": [
+          "Acetylcholinesterase",
+          "Tyrosine hydroxylase",
+          "Choline acetyltransferase (ChAT)",
+          "Choline oxidase"
+         ],
+         "answer": 2,
+         "explain": "ChAT combines choline and acetyl CoA."
+        }
+       ]
+      },
+      {
+       "id": "agonists",
+       "name": "Cholinergic Agonists",
+       "questions": [
+        {
+         "q": "Which direct agonist activates both nicotinic and muscarinic receptors and is used as a miotic eye drop?",
+         "options": [
+          "Bethanechol",
+          "Acetylcholine",
+          "Pilocarpine",
+          "Methacholine"
+         ],
+         "answer": 1,
+         "explain": "Choline esters like bethanechol are muscarinic only."
+        },
+        {
+         "q": "Bethanechol is used for:",
+         "options": [
+          "Urinary and bowel retention",
+          "Asthma diagnosis",
+          "Sjogren syndrome",
+          "Myasthenia gravis"
+         ],
+         "answer": 0,
+         "explain": "It is a nonselective muscarinic choline ester.",
+         "hy": true
+        },
+        {
+         "q": "Methacholine is used to:",
+         "options": [
+          "Treat urinary retention",
+          "Treat glaucoma",
+          "Reverse neuromuscular block",
+          "Provoke bronchoconstriction to diagnose asthma"
+         ],
+         "answer": 3,
+         "explain": "A challenge test for airway hyperreactivity."
+        },
+        {
+         "q": "Pilocarpine is an M3-selective alkaloid used for:",
+         "options": [
+          "Asthma",
+          "Bradycardia",
+          "Sjogren (sicca) syndrome",
+          "Motion sickness"
+         ],
+         "answer": 2,
+         "explain": "It stimulates lacrimal and salivary secretion. Most common side effect: sweating.",
+         "hy": true
+        },
+        {
+         "q": "Muscarinic toxicity is treated with:",
+         "options": [
+          "Neostigmine",
+          "Atropine",
+          "Pilocarpine",
+          "Edrophonium"
+         ],
+         "answer": 1,
+         "explain": "A muscarinic antagonist."
+        },
+        {
+         "q": "Edrophonium is a short-acting AChE inhibitor used as:",
+         "options": [
+          "Bedside diagnostic tool for myasthenia gravis",
+          "Treatment for Alzheimer",
+          "Pesticide",
+          "Nerve agent"
+         ],
+         "answer": 0,
+         "explain": "Reversibly binds AChE."
+        },
+        {
+         "q": "Neostigmine and pyridostigmine are used to treat:",
+         "options": [
+          "Glaucoma only",
+          "Asthma",
+          "Hypertension",
+          "Myasthenia gravis"
+         ],
+         "answer": 3,
+         "explain": "They are carbamates (-stigmines).",
+         "hy": true
+        },
+        {
+         "q": "Which AChE inhibitor enters the CNS and fixes atropine overdose?",
+         "options": [
+          "Neostigmine",
+          "Pyridostigmine",
+          "Physostigmine",
+          "Edrophonium"
+         ],
+         "answer": 2,
+         "explain": "Neostigmine does not cross the BBB well."
+        },
+        {
+         "q": "Parathion and malathion are:",
+         "options": [
+          "Reversible carbamates",
+          "Organophosphates causing irreversible AChE inhibition",
+          "Muscarinic antagonists",
+          "Nicotinic agonists"
+         ],
+         "answer": 1,
+         "explain": "Used as pesticides; very long acting.",
+         "hy": true
+        },
+        {
+         "q": "Tabun, sarin and soman are:",
+         "options": [
+          "War nerve gases (organophosphates)",
+          "Antimalarial drugs",
+          "Carbamates",
+          "Muscarinic agonists"
+         ],
+         "answer": 0,
+         "explain": "Very long-acting AChE inhibitors."
+        },
+        {
+         "q": "Which drugs treat Alzheimer dementia by inhibiting AChE?",
+         "options": [
+          "Atropine, scopolamine",
+          "Bethanechol, pilocarpine",
+          "Tubocurarine, pancuronium",
+          "Rivastigmine, donepezil, galantamine"
+         ],
+         "answer": 3,
+         "explain": "Cholinergic neuron deficiency is found in Alzheimer dementia.",
+         "hy": true
+        },
+        {
+         "q": "Nicotine (full agonist) and varenicline (partial agonist) are used for:",
+         "options": [
+          "Alzheimer disease",
+          "Asthma",
+          "Smoking cessation",
+          "Myasthenia gravis"
+         ],
+         "answer": 2,
+         "explain": "They act on neuronal and muscular nicotinic receptors."
+        },
+        {
+         "q": "Succinylcholine is:",
+         "options": [
+          "A nondepolarizing blocker",
+          "A depolarizing neuromuscular blocker",
+          "A ganglionic blocker",
+          "A muscarinic antagonist"
+         ],
+         "answer": 1,
+         "explain": "It is a nicotinic muscular (Nm) agonist."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "4 · Autonomics Part 2",
+     "notes": "Antimuscarinics (atropine prototype), nicotinic blockers, then adrenergic pharmacology: catecholamine synthesis, receptors, sympathomimetics and sympatholytics.",
+     "sections": [
+      {
+       "id": "antichol",
+       "name": "Anticholinergics",
+       "questions": [
+        {
+         "q": "The prototype muscarinic antagonist is:",
+         "options": [
+          "Atropine",
+          "Scopolamine",
+          "Pirenzepine",
+          "Hexamethonium"
+         ],
+         "answer": 0,
+         "explain": "It blocks ALL muscarinic receptors.",
+         "hy": true
+        },
+        {
+         "q": "The first choice for organophosphate poisoning is:",
+         "options": [
+          "Neostigmine",
+          "Physostigmine",
+          "Pilocarpine",
+          "Atropine"
+         ],
+         "answer": 3,
+         "explain": "It counters excess muscarinic stimulation.",
+         "hy": true
+        },
+        {
+         "q": "Which is used for acute asthma and COPD?",
+         "options": [
+          "Oxybutynin",
+          "Pirenzepine",
+          "Ipratropium or tiotropium",
+          "Hexamethonium"
+         ],
+         "answer": 2,
+         "explain": "Tiotropium has the longest half-life."
+        },
+        {
+         "q": "Scopolamine is mainly used for:",
+         "options": [
+          "Urge incontinence",
+          "Motion sickness",
+          "Peptic ulcer",
+          "Hypertension"
+         ],
+         "answer": 1,
+         "explain": "It crosses the BBB better than atropine."
+        },
+        {
+         "q": "Oxybutynin is used for:",
+         "options": [
+          "Urge incontinence",
+          "Motion sickness",
+          "Asthma",
+          "Peptic ulcer"
+         ],
+         "answer": 0,
+         "explain": "An M3 blocker."
+        },
+        {
+         "q": "Pirenzepine is an M1-selective blocker used for:",
+         "options": [
+          "Urinary incontinence",
+          "COPD",
+          "Motion sickness",
+          "Peptic ulcer disease"
+         ],
+         "answer": 3,
+         "explain": "It decreases gastric acid secretion."
+        },
+        {
+         "q": "Hexamethonium is a:",
+         "options": [
+          "Neuromuscular (Nm) blocker",
+          "M3 blocker",
+          "Ganglionic (Nn) blocker",
+          "Cholinesterase inhibitor"
+         ],
+         "answer": 2,
+         "explain": "Formerly used for hypertension; obsolete."
+        },
+        {
+         "q": "Tubocurarine, pancuronium, atracurium and vecuronium are used for:",
+         "options": [
+          "Treating hypertension",
+          "Skeletal muscle relaxation before surgery",
+          "Treating asthma",
+          "Treating myasthenia gravis"
+         ],
+         "answer": 1,
+         "explain": "They are Nm blockers."
+        }
+       ]
+      },
+      {
+       "id": "adren",
+       "name": "Adrenergic Pharmacology",
+       "questions": [
+        {
+         "q": "The primary neurotransmitter of sympathetic postganglionic fibers is:",
+         "options": [
+          "Norepinephrine",
+          "Acetylcholine",
+          "Dopamine",
+          "Epinephrine"
+         ],
+         "answer": 0,
+         "explain": "Exception: eccrine sweat glands use ACh.",
+         "hy": true
+        },
+        {
+         "q": "The rate-limiting step of catecholamine synthesis is:",
+         "options": [
+          "DOPA to dopamine",
+          "Dopamine to NE",
+          "NE to epinephrine",
+          "Tyrosine to L-DOPA by tyrosine hydroxylase"
+         ],
+         "answer": 3,
+         "explain": "Metyrosine inhibits it.",
+         "hy": true
+        },
+        {
+         "q": "Reserpine blocks:",
+         "options": [
+          "NET",
+          "Tyrosine hydroxylase",
+          "VMAT (vesicular storage)",
+          "COMT"
+         ],
+         "answer": 2,
+         "explain": "Catecholamine storage in vesicles."
+        },
+        {
+         "q": "Guanethidine inhibits:",
+         "options": [
+          "Storage",
+          "Catecholamine release",
+          "Synthesis",
+          "Reuptake"
+         ],
+         "answer": 1,
+         "explain": "Amphetamines, ephedrine and tyramine promote release."
+        },
+        {
+         "q": "Cocaine and tricyclic antidepressants block:",
+         "options": [
+          "Reuptake (NET/DAT)",
+          "Release",
+          "Storage",
+          "Synthesis"
+         ],
+         "answer": 0,
+         "explain": "This prolongs catecholamine action."
+        },
+        {
+         "q": "First-line drug in septic shock:",
+         "options": [
+          "Epinephrine",
+          "Dobutamine",
+          "Isoproterenol",
+          "Norepinephrine"
+         ],
+         "answer": 3,
+         "explain": "It raises total peripheral resistance."
+        },
+        {
+         "q": "Epinephrine is used for:",
+         "options": [
+          "Hypertension",
+          "Urinary retention",
+          "Anaphylaxis and shock",
+          "Pheochromocytoma"
+         ],
+         "answer": 2,
+         "explain": "It has B1 = B2 > alpha activity.",
+         "hy": true
+        },
+        {
+         "q": "Low-dose dopamine acts on:",
+         "options": [
+          "Alpha-1 receptors",
+          "D1 receptors (renal vasodilation)",
+          "Beta-2 receptors",
+          "Muscarinic receptors"
+         ],
+         "answer": 1,
+         "explain": "Mid dose: B1; high dose: alpha-1."
+        },
+        {
+         "q": "Phenylephrine, pseudoephedrine and oxymetazoline are used as:",
+         "options": [
+          "Nasal decongestants",
+          "Bronchodilators",
+          "Antihypertensives",
+          "Tocolytics"
+         ],
+         "answer": 0,
+         "explain": "Alpha-1 agonists cause nasal vasoconstriction."
+        },
+        {
+         "q": "Clonidine is an alpha-2 agonist used for:",
+         "options": [
+          "Septic shock",
+          "Asthma",
+          "Nasal congestion",
+          "Hypertension"
+         ],
+         "answer": 3,
+         "explain": "Off-label: ADHD and Tourette."
+        },
+        {
+         "q": "Methyldopa is used for:",
+         "options": [
+          "Asthma",
+          "BPH",
+          "Gestational hypertension and preeclampsia",
+          "Cardiogenic shock"
+         ],
+         "answer": 2,
+         "explain": "An alpha-2 agonist."
+        },
+        {
+         "q": "Dobutamine is a B1 agonist used for:",
+         "options": [
+          "Asthma",
+          "Cardiogenic shock and cardiac stress testing",
+          "Preterm labor",
+          "Nasal congestion"
+         ],
+         "answer": 1,
+         "explain": "It increases cardiac contractility."
+        },
+        {
+         "q": "Salbutamol, terbutaline and isoxsuprine are:",
+         "options": [
+          "Beta-2 agonists for asthma and tocolysis",
+          "Beta-1 blockers",
+          "Alpha-1 agonists",
+          "Alpha-2 blockers"
+         ],
+         "answer": 0,
+         "explain": "Side effects: tachycardia, tremors, nervousness.",
+         "hy": true
+        },
+        {
+         "q": "Which is a reversible nonselective alpha blocker used before pheochromocytoma surgery?",
+         "options": [
+          "Phenoxybenzamine",
+          "Prazosin",
+          "Tamsulosin",
+          "Phentolamine"
+         ],
+         "answer": 3,
+         "explain": "Phenoxybenzamine is the irreversible one.",
+         "hy": true
+        },
+        {
+         "q": "Alpha-1 blockers (-zosins) are used for:",
+         "options": [
+          "Asthma",
+          "Shock",
+          "Benign prostatic hyperplasia",
+          "Migraine"
+         ],
+         "answer": 2,
+         "explain": "Side effect: orthostatic hypotension. Tamsulosin is the most prostate-selective."
+        },
+        {
+         "q": "Which beta blocker is the shortest acting and given IV?",
+         "options": [
+          "Atenolol",
+          "Esmolol",
+          "Metoprolol",
+          "Propranolol"
+         ],
+         "answer": 1,
+         "explain": "A B1-selective blocker."
+        },
+        {
+         "q": "Propranolol is a:",
+         "options": [
+          "Nonselective beta blocker",
+          "B1-selective blocker",
+          "Alpha-1 blocker",
+          "B2 agonist"
+         ],
+         "answer": 0,
+         "explain": "Also used for hyperthyroidism and migraine prophylaxis."
+        },
+        {
+         "q": "Which are B1-selective beta blockers?",
+         "options": [
+          "Propranolol, timolol",
+          "Prazosin, doxazosin",
+          "Albuterol, terbutaline",
+          "Atenolol, bisoprolol, metoprolol"
+         ],
+         "answer": 3,
+         "explain": "Nonselective: propranolol, pindolol, timolol, labetalol, carvedilol."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "5 · Hormones and Diabetes",
+     "notes": "Insulin (beta cells) lowers glucose; glucagon (alpha cells) raises it. T1DM = beta-cell destruction; T2DM = insulin resistance with relative deficiency. Know the drug classes, mechanisms and key side effects.",
+     "sections": [
+      {
+       "id": "endo",
+       "name": "Endocrine Pancreas",
+       "questions": [
+        {
+         "q": "Endocrine glands secrete their products:",
+         "options": [
+          "Into ducts",
+          "Onto the skin",
+          "Into the bloodstream",
+          "Into the gut only"
+         ],
+         "answer": 2,
+         "explain": "Exocrine glands secrete into ducts."
+        },
+        {
+         "q": "About 99% of the pancreas is made of:",
+         "options": [
+          "Islets",
+          "Acini (digestive enzymes)",
+          "Beta cells",
+          "Ducts"
+         ],
+         "answer": 1,
+         "explain": "Islets of Langerhans are scattered among acini."
+        },
+        {
+         "q": "Which islet cell makes insulin (about 70%)?",
+         "options": [
+          "Beta cells",
+          "Alpha cells",
+          "Delta cells",
+          "F cells"
+         ],
+         "answer": 0,
+         "explain": "Alpha 17% glucagon; delta 7% somatostatin; F cells pancreatic polypeptide.",
+         "hy": true
+        },
+        {
+         "q": "Alpha cells secrete:",
+         "options": [
+          "Insulin",
+          "Somatostatin",
+          "Pancreatic polypeptide",
+          "Glucagon"
+         ],
+         "answer": 3,
+         "explain": "Glucagon is the main hormone in the fasting state.",
+         "hy": true
+        },
+        {
+         "q": "Delta cells secrete:",
+         "options": [
+          "Glucagon",
+          "Insulin",
+          "Somatostatin",
+          "Gastrin"
+         ],
+         "answer": 2,
+         "explain": "7% of islet cells."
+        },
+        {
+         "q": "Insulin has two chains linked by disulfide bridges. These are:",
+         "options": [
+          "Alpha and beta chains",
+          "A and B chains",
+          "C and D chains",
+          "H and L chains"
+         ],
+         "answer": 1,
+         "explain": "Proinsulin also contains C-peptide."
+        }
+       ]
+      },
+      {
+       "id": "dm",
+       "name": "Diabetes Mellitus",
+       "questions": [
+        {
+         "q": "Type 1 DM is characterized by:",
+         "options": [
+          "Autoimmune beta-cell destruction and absolute insulin deficiency",
+          "Insulin resistance only",
+          "Excess glucagon",
+          "Pancreatic exocrine failure"
+         ],
+         "answer": 0,
+         "explain": "Usually diagnosed before age 30; insulin-dependent.",
+         "hy": true
+        },
+        {
+         "q": "Type 2 DM is characterized by:",
+         "options": [
+          "Absolute insulin deficiency",
+          "Autoimmune destruction",
+          "Only gestational onset",
+          "Tissue resistance to insulin with relative deficiency of secretion"
+         ],
+         "answer": 3,
+         "explain": "It may initially be controlled with diet, exercise and oral agents."
+        },
+        {
+         "q": "HbA1c reflects glucose control over about:",
+         "options": [
+          "3 days",
+          "3 weeks",
+          "3 months",
+          "1 year"
+         ],
+         "answer": 2,
+         "explain": "A longer-term marker than fingerstick glucose."
+        },
+        {
+         "q": "Which is a diabetic complication?",
+         "options": [
+          "Hypertrophic cardiomyopathy only",
+          "Retinopathy, nephropathy, neuropathy",
+          "Cirrhosis",
+          "Goiter"
+         ],
+         "answer": 1,
+         "explain": "Microvascular complications."
+        }
+       ]
+      },
+      {
+       "id": "drugs",
+       "name": "Antidiabetic Drugs",
+       "questions": [
+        {
+         "q": "Which insulin is rapid-acting?",
+         "options": [
+          "Insulin lispro, aspart, glulisine",
+          "Regular insulin",
+          "NPH insulin",
+          "Insulin glargine"
+         ],
+         "answer": 0,
+         "explain": "Regular is short-acting; NPH is intermediate; glargine, detemir, degludec are long-acting.",
+         "hy": true
+        },
+        {
+         "q": "The most common side effect of insulin is:",
+         "options": [
+          "Hyperglycemia",
+          "Lactic acidosis",
+          "Weight loss",
+          "Hypoglycemia"
+         ],
+         "answer": 3,
+         "explain": "Teach patients and family the signs of hypoglycemia.",
+         "hy": true
+        },
+        {
+         "q": "Which insulin can be used IV in emergencies?",
+         "options": [
+          "NPH insulin",
+          "Insulin glargine",
+          "Regular insulin",
+          "Insulin degludec"
+         ],
+         "answer": 2,
+         "explain": "It is short-acting."
+        },
+        {
+         "q": "Sulfonylureas increase insulin release by:",
+         "options": [
+          "Activating AMPK",
+          "Inhibiting efflux of potassium ions (closing K-ATP channels)",
+          "Inhibiting DPP-4",
+          "Blocking SGLT2"
+         ],
+         "answer": 1,
+         "explain": "Second-generation: glyburide, glipizide, glimepiride, gliclazide.",
+         "hy": true
+        },
+        {
+         "q": "The major side effect of gliclazide is:",
+         "options": [
+          "Hypoglycemia",
+          "Lactic acidosis",
+          "Genital infections",
+          "Pancreatitis"
+         ],
+         "answer": 0,
+         "explain": "Sulfonylureas are secretagogues."
+        },
+        {
+         "q": "Meglitinides (repaglinide, mitiglinide) differ from sulfonylureas by:",
+         "options": [
+          "Longer duration",
+          "Using AMPK",
+          "Being injected",
+          "Faster onset, shorter duration, taken before meals"
+         ],
+         "answer": 3,
+         "explain": "They control postprandial glucose."
+        },
+        {
+         "q": "First-line therapy in type 2 DM:",
+         "options": [
+          "Insulin glargine",
+          "Pioglitazone",
+          "Metformin",
+          "Acarbose"
+         ],
+         "answer": 2,
+         "explain": "A biguanide.",
+         "hy": true
+        },
+        {
+         "q": "Metformin works mainly by:",
+         "options": [
+          "Closing K-ATP channels",
+          "Activating AMPK to reduce hepatic glucose production",
+          "Blocking SGLT2",
+          "Activating PPAR-gamma"
+         ],
+         "answer": 1,
+         "explain": "Also used in PCOS."
+        },
+        {
+         "q": "Which are side effects of metformin?",
+         "options": [
+          "GI upset, vitamin B12 deficiency, lactic acidosis",
+          "Heart failure and fractures",
+          "Genital infections",
+          "Pancreatitis"
+         ],
+         "answer": 0,
+         "explain": "GI effects are most common."
+        },
+        {
+         "q": "Pioglitazone and rosiglitazone work as ligands of:",
+         "options": [
+          "AMPK",
+          "DPP-4",
+          "SGLT2",
+          "PPAR-gamma"
+         ],
+         "answer": 3,
+         "explain": "These are thiazolidinediones.",
+         "hy": true
+        },
+        {
+         "q": "Which is a side effect of thiazolidinediones?",
+         "options": [
+          "Hypoglycemia as main effect",
+          "Flatulence",
+          "Fluid retention (heart failure), bone loss, weight gain",
+          "Genital infections"
+         ],
+         "answer": 2,
+         "explain": "Also edema and anemia."
+        },
+        {
+         "q": "Exenatide, semaglutide and liraglutide are:",
+         "options": [
+          "DPP-4 inhibitors",
+          "GLP-1 receptor agonists",
+          "SGLT2 inhibitors",
+          "Sulfonylureas"
+         ],
+         "answer": 1,
+         "explain": "They cause weight loss; side effects are GI disturbances and acute pancreatitis.",
+         "hy": true
+        },
+        {
+         "q": "Sitagliptin, saxagliptin and linagliptin are:",
+         "options": [
+          "DPP-4 inhibitors",
+          "GLP-1 agonists",
+          "SGLT2 inhibitors",
+          "Alpha-glucosidase inhibitors"
+         ],
+         "answer": 0,
+         "explain": "Side effects: headache, nasopharyngitis, URTI."
+        },
+        {
+         "q": "Acarbose and miglitol:",
+         "options": [
+          "Increase insulin secretion",
+          "Cause glycosuria",
+          "Reduce hepatic glucose output",
+          "Delay carbohydrate digestion, reducing post-meal glucose"
+         ],
+         "answer": 3,
+         "explain": "Side effects: flatulence, diarrhea, abdominal pain. No effect on fasting glucose."
+        },
+        {
+         "q": "Canagliflozin, dapagliflozin and empagliflozin cause:",
+         "options": [
+          "Weight gain",
+          "Hypoglycemia as main effect",
+          "Glycosuria by blocking SGLT2",
+          "Slowed digestion"
+         ],
+         "answer": 2,
+         "explain": "Side effects: genital and urinary tract infections.",
+         "hy": true
+        }
+       ]
+      },
+      {
+       "id": "mgmt",
+       "name": "Management & Targets",
+       "questions": [
+        {
+         "q": "Target HbA1c for most patients:",
+         "options": [
+          "Less than 5%",
+          "Less than 7%",
+          "Less than 10%",
+          "Less than 9%"
+         ],
+         "answer": 1,
+         "explain": "8% is acceptable for elderly frail patients.",
+         "hy": true
+        },
+        {
+         "q": "Target pre-meal glucose:",
+         "options": [
+          "90-130 mg/dL",
+          "50-70 mg/dL",
+          "150-200 mg/dL",
+          "70-90 mg/dL"
+         ],
+         "answer": 0,
+         "explain": "5-7.2 mmol/L."
+        },
+        {
+         "q": "Target 2-hour postprandial glucose:",
+         "options": [
+          "Less than 180 mg/dL",
+          "Less than 100 mg/dL",
+          "Less than 250 mg/dL",
+          "Less than 150 mg/dL"
+         ],
+         "answer": 3,
+         "explain": "The 1-hour target is less than 180 mg/dL."
+        },
+        {
+         "q": "Blood pressure target in diabetes (lecture):",
+         "options": [
+          "Less than 120/60",
+          "Less than 160/100",
+          "Less than 140/90",
+          "Less than 130/90"
+         ],
+         "answer": 2,
+         "explain": "Part of the glycemic and BP targets."
+        },
+        {
+         "q": "Estimated daily insulin units needed:",
+         "options": [
+          "Weight in kg x 5",
+          "Weight in kg x 0.55",
+          "Weight in kg x 0.1",
+          "Weight in kg / 2"
+         ],
+         "answer": 1,
+         "explain": "For type 1 DM, given as at least 3-4 injections daily."
+        },
+        {
+         "q": "A diet recommended for diabetes:",
+         "options": [
+          "Mediterranean-style, limiting carbohydrates, using monounsaturated fats",
+          "High-sugar diet",
+          "High saturated fat diet",
+          "Fasting only"
+         ],
+         "answer": 0,
+         "explain": "Olive oil, canola oil, nuts and avocados."
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}
