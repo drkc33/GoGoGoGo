@@ -962,7 +962,7 @@
      "notes": "ANS: sympathetic = fight or flight; parasympathetic = rest and digest. ACh is the transmitter at all autonomic ganglia, parasympathetic endings and the NMJ. Cholinergic drugs can be direct (muscarinic, nicotinic) or indirect (AChE inhibitors).",
      "sections": [
       {
-       "id": "basics",
+       "id": "ans1",
        "name": "ANS & Acetylcholine",
        "questions": [
         {
@@ -1914,6 +1914,332 @@
          ],
          "answer": 0,
          "explain": "Olive oil, canola oil, nuts and avocados."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "6 · Antihypertensive Drugs",
+     "notes": "BP = CO x SVR; CO = HR x SV. Drug classes: diuretics, sympatholytics, vasodilators, drugs blocking angiotensin (ACE inhibitors, ARBs), plus calcium channel blockers.",
+     "sections": [
+      {
+       "id": "bp",
+       "name": "Blood Pressure & Classes",
+       "questions": [
+        {
+         "q": "Blood pressure equals:",
+         "options": [
+          "Heart rate x stroke volume",
+          "Stroke volume / resistance",
+          "Cardiac output / heart rate",
+          "Cardiac output x systemic vascular resistance"
+         ],
+         "answer": 3,
+         "explain": "BP = CO x SVR, and CO = HR x SV.",
+         "hy": true
+        },
+        {
+         "q": "Cardiac output equals:",
+         "options": [
+          "Blood pressure x resistance",
+          "SBP - DBP",
+          "Heart rate x stroke volume",
+          "Stroke volume / heart rate"
+         ],
+         "answer": 2,
+         "explain": "CO = HR x SV."
+        },
+        {
+         "q": "Primary (essential) hypertension is:",
+         "options": [
+          "Hypertension with a specific cause",
+          "Hypertension with no specific cause",
+          "Temporary hypertension",
+          "Hypertension due to kidney disease only"
+         ],
+         "answer": 1,
+         "explain": "Secondary hypertension has a specific etiology."
+        },
+        {
+         "q": "Which is NOT one of the four antihypertensive drug groups in the lecture?",
+         "options": [
+          "Anticoagulants",
+          "Diuretics",
+          "Sympathoplegic agents",
+          "Direct vasodilators"
+         ],
+         "answer": 0,
+         "explain": "The fourth group blocks production or action of angiotensin."
+        }
+       ]
+      },
+      {
+       "id": "diur",
+       "name": "Diuretics",
+       "questions": [
+        {
+         "q": "Diuretics lower BP mainly by:",
+         "options": [
+          "Blocking beta receptors",
+          "Dilating arterioles directly",
+          "Blocking angiotensin II",
+          "Depleting body sodium stores"
+         ],
+         "answer": 3,
+         "explain": "They lower BP by about 10-15 mmHg in most patients.",
+         "hy": true
+        },
+        {
+         "q": "Loop diuretics inhibit:",
+         "options": [
+          "NCC in the DCT",
+          "ENaC in the collecting duct",
+          "NKCC2 (Na/K/Cl cotransporter) in the thick ascending limb",
+          "Aldosterone receptors"
+         ],
+         "answer": 2,
+         "explain": "Prototypes: furosemide and ethacrynic acid; also bumetanide and torsemide.",
+         "hy": true
+        },
+        {
+         "q": "Which is a loop diuretic?",
+         "options": [
+          "Hydrochlorothiazide",
+          "Furosemide",
+          "Spironolactone",
+          "Amiloride"
+         ],
+         "answer": 1,
+         "explain": "Furosemide is the prototype."
+        },
+        {
+         "q": "Loop diuretics are used for:",
+         "options": [
+          "Acute pulmonary edema, hyperkalemia, acute renal failure",
+          "Gout",
+          "Hyperlipidemia",
+          "Hypokalemia"
+         ],
+         "answer": 0,
+         "explain": "They are strong diuretics for edematous conditions."
+        },
+        {
+         "q": "A characteristic toxicity of loop diuretics:",
+         "options": [
+          "Gynecomastia",
+          "Hyperkalemia",
+          "Dry cough",
+          "Ototoxicity"
+         ],
+         "answer": 3,
+         "explain": "Also allergic reactions."
+        },
+        {
+         "q": "Thiazide diuretics block:",
+         "options": [
+          "NKCC2",
+          "ENaC",
+          "The Na/Cl cotransporter (NCC) in the distal convoluted tubule",
+          "Aldosterone receptor"
+         ],
+         "answer": 2,
+         "explain": "The prototype is hydrochlorothiazide (HCTZ).",
+         "hy": true
+        },
+        {
+         "q": "Thiazide toxicities include:",
+         "options": [
+          "Ototoxicity",
+          "Hyperlipidemia, hyponatremia, gout",
+          "Gynecomastia",
+          "Angioedema"
+         ],
+         "answer": 1,
+         "explain": "Also allergic reactions."
+        },
+        {
+         "q": "Spironolactone and eplerenone are:",
+         "options": [
+          "Aldosterone antagonists (potassium-sparing)",
+          "ENaC inhibitors",
+          "Loop diuretics",
+          "Thiazides"
+         ],
+         "answer": 0,
+         "explain": "They prevent K+ secretion in the collecting tubules."
+        },
+        {
+         "q": "Amiloride and triamterene act by:",
+         "options": [
+          "Antagonizing aldosterone",
+          "Blocking NKCC2",
+          "Blocking NCC",
+          "Inhibiting epithelial Na+ channels (ENaC)"
+         ],
+         "answer": 3,
+         "explain": "Also potassium-sparing."
+        },
+        {
+         "q": "Toxicity of potassium-sparing diuretics:",
+         "options": [
+          "Hypokalemia",
+          "Ototoxicity",
+          "Hyperkalemia (gynecomastia with spironolactone)",
+          "Hyperlipidemia"
+         ],
+         "answer": 2,
+         "explain": "Uses: hyperaldosteronism and heart failure.",
+         "hy": true
+        }
+       ]
+      },
+      {
+       "id": "symp",
+       "name": "Sympatholytics, Vasodilators, CCBs",
+       "questions": [
+        {
+         "q": "Which is an oral vasodilator for hypertension?",
+         "options": [
+          "Nitroprusside",
+          "Hydralazine or minoxidil",
+          "Fenoldopam",
+          "Phentolamine"
+         ],
+         "answer": 1,
+         "explain": "Parenteral vasodilators: nitroprusside and fenoldopam.",
+         "hy": true
+        },
+        {
+         "q": "Parenteral vasodilators in the lecture:",
+         "options": [
+          "Nitroprusside and fenoldopam",
+          "Hydralazine and minoxidil",
+          "Verapamil and diltiazem",
+          "Captopril and enalapril"
+         ],
+         "answer": 0,
+         "explain": "They are used for severe hypertension."
+        },
+        {
+         "q": "Which are non-dihydropyridine calcium channel blockers?",
+         "options": [
+          "Amlodipine and nifedipine",
+          "Felodipine and nicardipine",
+          "Losartan and valsartan",
+          "Verapamil and diltiazem"
+         ],
+         "answer": 3,
+         "explain": "Dihydropyridines: amlodipine, felodipine, nifedipine, nicardipine.",
+         "hy": true
+        },
+        {
+         "q": "Calcium channel blockers lower BP by:",
+         "options": [
+          "Blocking aldosterone",
+          "Inhibiting ACE",
+          "Inhibiting Ca2+ influx into arterial smooth muscle cells",
+          "Blocking beta receptors"
+         ],
+         "answer": 2,
+         "explain": "This causes vasodilation."
+        },
+        {
+         "q": "Which sympatholytic drugs are listed?",
+         "options": [
+          "Captopril, losartan",
+          "Methyldopa, clonidine, beta-blockers, alpha-1 blockers",
+          "Furosemide, HCTZ",
+          "Verapamil, diltiazem"
+         ],
+         "answer": 1,
+         "explain": "Also phentolamine and phenoxybenzamine."
+        }
+       ]
+      },
+      {
+       "id": "raas",
+       "name": "ACE Inhibitors & ARBs",
+       "questions": [
+        {
+         "q": "ACE inhibitors work by:",
+         "options": [
+          "Blocking conversion of angiotensin I to II and inactivating bradykinin",
+          "Blocking AT1 receptors",
+          "Blocking NKCC2",
+          "Blocking aldosterone receptors"
+         ],
+         "answer": 0,
+         "explain": "Examples: captopril, enalapril, ramipril.",
+         "hy": true
+        },
+        {
+         "q": "Which is an ACE inhibitor?",
+         "options": [
+          "Losartan",
+          "Amlodipine",
+          "Furosemide",
+          "Ramipril"
+         ],
+         "answer": 3,
+         "explain": "The -pril drugs are ACE inhibitors."
+        },
+        {
+         "q": "ACE inhibitors are preferred in chronic kidney disease because they:",
+         "options": [
+          "Cause diuresis",
+          "Increase potassium",
+          "Reduce proteinuria and stabilize renal function",
+          "Dilate veins only"
+         ],
+         "answer": 2,
+         "explain": "Especially useful in diabetes."
+        },
+        {
+         "q": "Toxicities of ACE inhibitors:",
+         "options": [
+          "Ototoxicity",
+          "Dry cough and angioedema",
+          "Gynecomastia",
+          "Gout"
+         ],
+         "answer": 1,
+         "explain": "Both are linked to increased bradykinin.",
+         "hy": true
+        },
+        {
+         "q": "ACE inhibitors are contraindicated in:",
+         "options": [
+          "Pregnancy",
+          "Heart failure",
+          "Chronic kidney disease",
+          "Diabetes"
+         ],
+         "answer": 0,
+         "explain": "They can harm the fetus."
+        },
+        {
+         "q": "ARBs (losartan, valsartan, candesartan, irbesartan, telmisartan) block:",
+         "options": [
+          "ACE",
+          "NKCC2",
+          "Aldosterone receptors",
+          "Angiotensin II type 1 (AT1) receptors"
+         ],
+         "answer": 3,
+         "explain": "The -sartans.",
+         "hy": true
+        },
+        {
+         "q": "Compared with ACE inhibitors, ARBs:",
+         "options": [
+          "Block ACE",
+          "Cause more cough",
+          "Do not affect bradykinin, so cough is less likely",
+          "Are not selective"
+         ],
+         "answer": 2,
+         "explain": "ARBs are more selective blockers of angiotensin effects."
         }
        ]
       }
