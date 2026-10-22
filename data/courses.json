@@ -3325,6 +3325,2730 @@
      ]
     }
    ]
+  },
+  {
+   "name": "General Botany Lecture",
+   "tag": "Prelims",
+   "topics": [
+    {
+     "name": "1 · Characteristics of Life",
+     "notes": "Eight attributes of living things: composition and structure, growth, reproduction, response to stimuli, metabolism, movement, complexity of organization, adaptation.",
+     "sections": [
+      {
+       "id": "gb_life",
+       "name": "Eight Attributes of Life",
+       "questions": [
+        {
+         "q": "Which is NOT one of the eight attributes of living organisms?",
+         "options": [
+          "Growth",
+          "Metabolism",
+          "Hibernation",
+          "Adaptation to the environment"
+         ],
+         "answer": 2,
+         "explain": "The eight: composition and structure, growth, reproduction, response to stimuli, metabolism, movement, complexity of organization, adaptation.",
+         "hy": true
+        },
+        {
+         "q": "In a eukaryotic cell, DNA is kept:",
+         "options": [
+          "Floating freely in the cytoplasm",
+          "Inside a membrane-bound nucleus",
+          "In the cell wall",
+          "In the vacuole"
+         ],
+         "answer": 1,
+         "explain": "In prokaryotes the DNA floats freely in the cytoplasm.",
+         "hy": true
+        },
+        {
+         "q": "When plant tissue is pierced, it produces what to seal the wound in as little as 5 seconds?",
+         "options": [
+          "Callose",
+          "Cutin",
+          "Lignin",
+          "Suberin"
+         ],
+         "answer": 0,
+         "explain": "This prevents nutrient loss; plants respond chemically rather than physically."
+        },
+        {
+         "q": "Which are key processes of metabolism?",
+         "options": [
+          "Growth, movement, reproduction",
+          "Mitosis, meiosis, fertilization",
+          "Phototropism, nastic movement",
+          "Respiration, digestion, assimilation"
+         ],
+         "answer": 3,
+         "explain": "Respiration releases ATP, digestion breaks down food, assimilation turns nutrients into materials for growth and repair."
+        },
+        {
+         "q": "Asexual reproduction involves:",
+         "options": [
+          "Fusion of gametes",
+          "Two parents",
+          "One parent only, with offspring resembling the parent",
+          "A zygote"
+         ],
+         "answer": 2,
+         "explain": "Examples: binary fission, vegetative propagation, budding."
+        },
+        {
+         "q": "In sexual reproduction, male and female gametes fuse to form a:",
+         "options": [
+          "Spore",
+          "Zygote",
+          "Bud",
+          "Seed coat"
+         ],
+         "answer": 1,
+         "explain": "This happens during fertilization."
+        },
+        {
+         "q": "Phototropism is growth:",
+         "options": [
+          "Toward light",
+          "Toward gravity",
+          "Toward water",
+          "In response to touch"
+         ],
+         "answer": 0,
+         "explain": "Geotropism: gravity. Hydrotropism: water. Thigmotropism: touch.",
+         "hy": true
+        },
+        {
+         "q": "The movement of makahiya (Mimosa) leaves on touch is:",
+         "options": [
+          "Tropic movement",
+          "Growth movement",
+          "Cytoplasmic streaming",
+          "Nastic movement (non-directional)"
+         ],
+         "answer": 3,
+         "explain": "Nastic movements are non-directional responses to a stimulus.",
+         "hy": true
+        },
+        {
+         "q": "Movement within the cell itself is called:",
+         "options": [
+          "Nastic movement",
+          "Geotropism",
+          "Cytoplasmic streaming",
+          "Growth movement"
+         ],
+         "answer": 2,
+         "explain": "A form of cellular movement."
+        },
+        {
+         "q": "Living things become genetically suited to their environment over generations through:",
+         "options": [
+          "Metabolism",
+          "Natural selection",
+          "Assimilation",
+          "Binary fission"
+         ],
+         "answer": 1,
+         "explain": "This is adaptation to the environment."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "2 · Chemical Basis of Life",
+     "notes": "Matter is made of elements and atoms; atomic number = protons; mass number = protons + neutrons. Water is polar (cohesion and adhesion). pH 0-14. First law: energy is constant. Second law: entropy increases. Dehydration synthesis builds polymers; hydrolysis breaks them.",
+     "sections": [
+      {
+       "id": "gb_chem",
+       "name": "Atoms, Water & pH",
+       "questions": [
+        {
+         "q": "Which subatomic particle has no charge?",
+         "options": [
+          "Neutron",
+          "Proton",
+          "Electron",
+          "Positron"
+         ],
+         "answer": 0,
+         "explain": "Protons are positive and electrons negative."
+        },
+        {
+         "q": "The atomic number is the number of:",
+         "options": [
+          "Neutrons",
+          "Electrons only",
+          "Protons plus neutrons",
+          "Protons"
+         ],
+         "answer": 3,
+         "explain": "Mass number = protons + neutrons.",
+         "hy": true
+        },
+        {
+         "q": "Isotopes are atoms of the same element with different numbers of:",
+         "options": [
+          "Protons",
+          "Electrons",
+          "Neutrons",
+          "Shells"
+         ],
+         "answer": 2,
+         "explain": "They have the same protons but different mass."
+        },
+        {
+         "q": "The first electron shell holds how many electrons?",
+         "options": [
+          "8",
+          "2",
+          "4",
+          "18"
+         ],
+         "answer": 1,
+         "explain": "The second shell holds 8."
+        },
+        {
+         "q": "Water is a polar molecule because:",
+         "options": [
+          "Oxygen attracts shared electrons more strongly than hydrogen",
+          "Hydrogen attracts electrons more",
+          "It has a symmetrical shape",
+          "It has no charge"
+         ],
+         "answer": 0,
+         "explain": "Oxygen becomes slightly negative and hydrogen slightly positive."
+        },
+        {
+         "q": "Cohesion is the attraction between:",
+         "options": [
+          "Water and other surfaces",
+          "Ions",
+          "Proteins",
+          "Water molecules"
+         ],
+         "answer": 3,
+         "explain": "Adhesion is attraction between water and other surfaces. Together they allow capillary action in xylem.",
+         "hy": true
+        },
+        {
+         "q": "Cations are ions that:",
+         "options": [
+          "Gained electrons",
+          "Are neutral",
+          "Lost electrons and are positively charged",
+          "Have more neutrons"
+         ],
+         "answer": 2,
+         "explain": "Anions gain electrons and are negative."
+        },
+        {
+         "q": "A pH of 7 is:",
+         "options": [
+          "Acidic",
+          "Neutral",
+          "Basic",
+          "Alkaline"
+         ],
+         "answer": 1,
+         "explain": "0-6 acidic, 7 neutral, 8-14 basic."
+        },
+        {
+         "q": "Each pH unit represents a change in H+ concentration of:",
+         "options": [
+          "10-fold",
+          "2-fold",
+          "100-fold",
+          "1-fold"
+         ],
+         "answer": 0,
+         "explain": "The scale is logarithmic.",
+         "hy": true
+        }
+       ]
+      },
+      {
+       "id": "gb_energy",
+       "name": "Energy & Biomolecules",
+       "questions": [
+        {
+         "q": "The first law of thermodynamics states that:",
+         "options": [
+          "Entropy always increases",
+          "Energy is always lost",
+          "Matter is created",
+          "Energy cannot be created or destroyed, only transformed"
+         ],
+         "answer": 3,
+         "explain": "Energy in the universe is constant."
+        },
+        {
+         "q": "The second law of thermodynamics says that entropy in isolated systems:",
+         "options": [
+          "Always decreases",
+          "Stays constant",
+          "Always increases",
+          "Is zero"
+         ],
+         "answer": 2,
+         "explain": "Disorder increases over time.",
+         "hy": true
+        },
+        {
+         "q": "Kinetic energy is energy of:",
+         "options": [
+          "Position (stored)",
+          "Motion",
+          "Chemical bonds only",
+          "Light only"
+         ],
+         "answer": 1,
+         "explain": "Potential energy is stored energy."
+        },
+        {
+         "q": "Organic compounds are molecules with:",
+         "options": [
+          "A carbon backbone",
+          "No carbon",
+          "Only water",
+          "A metal core"
+         ],
+         "answer": 0,
+         "explain": "Exceptions: CO2 and NaHCO3 are classed as inorganic."
+        },
+        {
+         "q": "Which is classified as inorganic although it contains carbon?",
+         "options": [
+          "Glucose",
+          "Cellulose",
+          "Amino acids",
+          "Carbon dioxide"
+         ],
+         "answer": 3,
+         "explain": "It lacks the carbon framework of organic molecules."
+        },
+        {
+         "q": "Dehydration synthesis:",
+         "options": [
+          "Breaks polymers by adding water",
+          "Releases energy",
+          "Builds polymers by removing water",
+          "Splits monomers"
+         ],
+         "answer": 2,
+         "explain": "It joins monomers and forms chemical bonds.",
+         "hy": true
+        },
+        {
+         "q": "Hydrolysis:",
+         "options": [
+          "Builds polymers",
+          "Breaks polymers by adding water",
+          "Removes water",
+          "Joins monomers"
+         ],
+         "answer": 1,
+         "explain": "It separates monomers."
+        },
+        {
+         "q": "Amino acids join to form:",
+         "options": [
+          "Proteins",
+          "Lipids",
+          "Carbohydrates",
+          "Nucleic acids"
+         ],
+         "answer": 0,
+         "explain": "Proteins regulate cellular reactions."
+        },
+        {
+         "q": "Nucleotides form:",
+         "options": [
+          "Lipids",
+          "Carbohydrates",
+          "Proteins",
+          "Nucleic acids, which store genetic information"
+         ],
+         "answer": 3,
+         "explain": "Monosaccharides form carbohydrates; glycerol and fatty acids form lipids."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "3 · Cell Structure & Transport",
+     "notes": "Plant cell wall: middle lamella (pectin), primary wall (flexible), secondary wall (lignin). Plasmodesmata connect cells. Know organelle functions and passive and active transport.",
+     "sections": [
+      {
+       "id": "gb_cell",
+       "name": "Cell Wall & Organelles",
+       "questions": [
+        {
+         "q": "The main structural component of the plant cell wall is:",
+         "options": [
+          "Chitin",
+          "Peptidoglycan",
+          "Cellulose",
+          "Lignin only"
+         ],
+         "answer": 2,
+         "explain": "It also contains hemicellulose, pectin and glycoproteins.",
+         "hy": true
+        },
+        {
+         "q": "The middle lamella is made mainly of:",
+         "options": [
+          "Cellulose",
+          "Pectin",
+          "Lignin",
+          "Cutin"
+         ],
+         "answer": 1,
+         "explain": "It cements adjacent cells together."
+        },
+        {
+         "q": "The secondary cell wall is thicker because it contains:",
+         "options": [
+          "Lignin",
+          "Pectin",
+          "Starch",
+          "Chitin"
+         ],
+         "answer": 0,
+         "explain": "The primary wall stays flexible so young cells can grow."
+        },
+        {
+         "q": "Plasmodesmata allow:",
+         "options": [
+          "Water storage",
+          "Photosynthesis",
+          "DNA replication",
+          "Communication between plant cells (sugars, amino acids, ions)"
+         ],
+         "answer": 3,
+         "explain": "The desmotubule stabilizes the structure."
+        },
+        {
+         "q": "Prokaryotic cells differ from eukaryotic cells in that they:",
+         "options": [
+          "Have a nucleus",
+          "Have a cell wall in all cases",
+          "Lack a true nucleus and membrane-bound organelles",
+          "Are always large"
+         ],
+         "answer": 2,
+         "explain": "Prokaryotic = 'before nucleus'; eukaryotic = 'true nucleus'.",
+         "hy": true
+        },
+        {
+         "q": "Cells stay small because:",
+         "options": [
+          "Surface area grows faster",
+          "Volume grows faster than surface area",
+          "They have no membrane",
+          "They lack organelles"
+         ],
+         "answer": 1,
+         "explain": "A larger surface-to-volume ratio allows efficient exchange.",
+         "hy": true
+        },
+        {
+         "q": "The smooth ER:",
+         "options": [
+          "Makes lipids and breaks down drugs",
+          "Has ribosomes",
+          "Makes proteins",
+          "Packages proteins"
+         ],
+         "answer": 0,
+         "explain": "The rough ER has ribosomes for protein synthesis."
+        },
+        {
+         "q": "The Golgi apparatus:",
+         "options": [
+          "Makes ATP",
+          "Digests waste",
+          "Makes ribosomes",
+          "Modifies, sorts and packages proteins"
+         ],
+         "answer": 3,
+         "explain": "It works with the ER to create lysosomes."
+        },
+        {
+         "q": "Which cytoskeleton component is the largest?",
+         "options": [
+          "Microfilaments",
+          "Intermediate filaments",
+          "Microtubules",
+          "Actin"
+         ],
+         "answer": 2,
+         "explain": "Microfilaments are the smallest; intermediate filaments anchor organelles."
+        },
+        {
+         "q": "The large central vacuole of plant cells occupies about:",
+         "options": [
+          "10%",
+          "90% of the cell's internal volume",
+          "50%",
+          "30%"
+         ],
+         "answer": 1,
+         "explain": "It stores water, nutrients, pigments and wastes."
+        },
+        {
+         "q": "Which structure is found in animal cells but not plant cells?",
+         "options": [
+          "Centrosome",
+          "Chloroplast",
+          "Central vacuole",
+          "Cell wall"
+         ],
+         "answer": 0,
+         "explain": "Centrosomes organize microtubules during division."
+        },
+        {
+         "q": "The thickness of which wall separates Gram-positive from Gram-negative bacteria?",
+         "options": [
+          "Cellulose wall",
+          "Chitin wall",
+          "Lignin wall",
+          "Peptidoglycan wall"
+         ],
+         "answer": 3,
+         "explain": "Bacterial DNA lies in the nucleoid region."
+        }
+       ]
+      },
+      {
+       "id": "gb_trans",
+       "name": "Membrane Transport",
+       "questions": [
+        {
+         "q": "Passive transport:",
+         "options": [
+          "Needs ATP",
+          "Moves against the gradient",
+          "Moves substances down the gradient without energy",
+          "Uses pumps"
+         ],
+         "answer": 2,
+         "explain": "Includes simple diffusion, facilitated diffusion and osmosis.",
+         "hy": true
+        },
+        {
+         "q": "Facilitated diffusion moves larger or polar molecules through:",
+         "options": [
+          "The lipid bilayer directly",
+          "Protein carriers or channels",
+          "Vesicles",
+          "Pumps with ATP"
+         ],
+         "answer": 1,
+         "explain": "It is still passive."
+        },
+        {
+         "q": "Osmosis is the diffusion of:",
+         "options": [
+          "Water across a selectively permeable membrane",
+          "Solutes with ATP",
+          "Gases only",
+          "Lipids"
+         ],
+         "answer": 0,
+         "explain": "Water moves toward higher solute concentration."
+        },
+        {
+         "q": "Primary active transport uses:",
+         "options": [
+          "Existing gradients",
+          "Vesicles",
+          "Simple diffusion",
+          "Protein pumps"
+         ],
+         "answer": 3,
+         "explain": "Secondary active transport uses gradients made by primary transport."
+        },
+        {
+         "q": "Bulk transport includes:",
+         "options": [
+          "Osmosis and diffusion",
+          "Pumps and channels",
+          "Endocytosis and exocytosis",
+          "Simple and facilitated diffusion"
+         ],
+         "answer": 2,
+         "explain": "Phagocytosis is cell eating; pinocytosis is cell drinking."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "4 · Cell Cycle, Mitosis & Meiosis",
+     "notes": "Interphase = G1, S (DNA replication), G2. Mitosis: prophase, metaphase, anaphase, telophase, then cytokinesis. Meiosis I is reductional; meiosis II is equational. Know nondisjunction and chromosomal disorders.",
+     "sections": [
+      {
+       "id": "gb_cyc",
+       "name": "Cell Cycle & Mitosis",
+       "questions": [
+        {
+         "q": "DNA is duplicated during:",
+         "options": [
+          "G1",
+          "S phase",
+          "G2",
+          "Metaphase"
+         ],
+         "answer": 1,
+         "explain": "This creates sister chromatids.",
+         "hy": true
+        },
+        {
+         "q": "During G2, the cell:",
+         "options": [
+          "Grows and prepares for mitosis",
+          "Replicates DNA",
+          "Separates chromatids",
+          "Forms the cell plate"
+         ],
+         "answer": 0,
+         "explain": "G1 is the first gap phase after a daughter cell forms."
+        },
+        {
+         "q": "In prophase:",
+         "options": [
+          "Chromatids separate",
+          "Nuclei re-form",
+          "Chromosomes line up",
+          "Chromatin condenses into visible chromosomes and the spindle forms"
+         ],
+         "answer": 3,
+         "explain": "Chromosomes get shorter and thicker."
+        },
+        {
+         "q": "The metaphase plate is where:",
+         "options": [
+          "DNA replicates",
+          "Nuclei re-form",
+          "Chromosomes align near the middle of the cell",
+          "Cell plate forms"
+         ],
+         "answer": 2,
+         "explain": "This sets up proper orientation for anaphase.",
+         "hy": true
+        },
+        {
+         "q": "In anaphase:",
+         "options": [
+          "Chromosomes condense",
+          "Sister chromatids separate",
+          "Nucleoli reappear",
+          "Cytoplasm divides"
+         ],
+         "answer": 1,
+         "explain": "Each chromatid becomes an individual chromosome."
+        },
+        {
+         "q": "Which happens in telophase?",
+         "options": [
+          "Nuclear envelopes reform and nucleoli reappear",
+          "Chromatids separate",
+          "Chromosomes condense",
+          "DNA replicates"
+         ],
+         "answer": 0,
+         "explain": "In plants, the cell plate begins to form."
+        },
+        {
+         "q": "Plant cells divide their cytoplasm by forming a:",
+         "options": [
+          "Cleavage furrow",
+          "Contractile ring",
+          "Spindle",
+          "Cell plate"
+         ],
+         "answer": 3,
+         "explain": "Animal cells form a cleavage furrow because plant cells have a rigid wall.",
+         "hy": true
+        },
+        {
+         "q": "Nondisjunction is:",
+         "options": [
+          "Loss of a segment",
+          "Reversal of a segment",
+          "Failure of chromosomes or chromatids to separate properly",
+          "Movement of a segment"
+         ],
+         "answer": 2,
+         "explain": "It causes cells with abnormal chromosome numbers."
+        },
+        {
+         "q": "Which is a structural chromosomal change?",
+         "options": [
+          "Nondisjunction",
+          "Deletion, duplication, inversion, translocation",
+          "Cytokinesis",
+          "Replication"
+         ],
+         "answer": 1,
+         "explain": "These change the chromosome itself."
+        },
+        {
+         "q": "In plants, meristems use mitosis for:",
+         "options": [
+          "Growth and formation of new tissues",
+          "Gamete formation",
+          "Seed dormancy",
+          "Water uptake"
+         ],
+         "answer": 0,
+         "explain": "Mitosis lets plants increase in size and develop organs."
+        }
+       ]
+      },
+      {
+       "id": "gb_mei",
+       "name": "Meiosis & Disorders",
+       "questions": [
+        {
+         "q": "Meiosis reduces chromosome number from:",
+         "options": [
+          "Haploid to diploid",
+          "2n to 4n",
+          "n to 2n",
+          "Diploid (2n) to haploid (n)"
+         ],
+         "answer": 3,
+         "explain": "It makes gametes.",
+         "hy": true
+        },
+        {
+         "q": "Meiosis I is called:",
+         "options": [
+          "Equational division",
+          "Replication",
+          "Reduction division (homologous chromosomes separate)",
+          "Cytokinesis"
+         ],
+         "answer": 2,
+         "explain": "In meiosis II, sister chromatids separate."
+        },
+        {
+         "q": "Crossing-over occurs in:",
+         "options": [
+          "Metaphase II",
+          "Prophase I at chiasmata",
+          "Anaphase II",
+          "Telophase I"
+         ],
+         "answer": 1,
+         "explain": "It creates genetic variation.",
+         "hy": true
+        },
+        {
+         "q": "Meiosis produces:",
+         "options": [
+          "4 haploid cells",
+          "2 diploid cells",
+          "2 haploid cells",
+          "4 diploid cells"
+         ],
+         "answer": 0,
+         "explain": "Meiosis I yields 2 haploid cells; meiosis II yields 4."
+        },
+        {
+         "q": "In alternation of generations the gametophyte is:",
+         "options": [
+          "Diploid (2n)",
+          "Triploid",
+          "Tetraploid",
+          "Haploid (n)"
+         ],
+         "answer": 3,
+         "explain": "The sporophyte is diploid (2n)."
+        },
+        {
+         "q": "Down syndrome is caused by:",
+         "options": [
+          "Trisomy 18",
+          "45,X",
+          "Trisomy 21",
+          "47,XXY"
+         ],
+         "answer": 2,
+         "explain": "Edwards is trisomy 18; Patau is trisomy 13.",
+         "hy": true
+        },
+        {
+         "q": "Turner syndrome has the chromosomal feature:",
+         "options": [
+          "47,XXY",
+          "45,X",
+          "Trisomy 13",
+          "Deletion of 5p"
+         ],
+         "answer": 1,
+         "explain": "Female with short stature and delayed puberty."
+        },
+        {
+         "q": "Klinefelter syndrome is:",
+         "options": [
+          "47,XXY",
+          "45,X",
+          "Trisomy 21",
+          "Trisomy 18"
+         ],
+         "answer": 0,
+         "explain": "Male with reduced testosterone and often infertility."
+        },
+        {
+         "q": "Cri-du-chat syndrome results from:",
+         "options": [
+          "Trisomy 13",
+          "Extra X chromosome",
+          "Missing X chromosome",
+          "Deletion of the short arm of chromosome 5"
+         ],
+         "answer": 3,
+         "explain": "It causes a high-pitched, cat-like cry."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "5 · Cellular Respiration",
+     "notes": "Glycolysis (cytosol): glucose to 2 pyruvate, net 2 ATP and 2 NADH; PFK is the main regulator. Pyruvate oxidation gives acetyl-CoA. Citric acid cycle (matrix) makes NADH and FADH2. ETC and ATP synthase make most ATP; oxygen is the final electron acceptor.",
+     "sections": [
+      {
+       "id": "gb_gly",
+       "name": "Glycolysis",
+       "questions": [
+        {
+         "q": "Glycolysis takes place in the:",
+         "options": [
+          "Mitochondrial matrix",
+          "Inner mitochondrial membrane",
+          "Cytosol",
+          "Nucleus"
+         ],
+         "answer": 2,
+         "explain": "It occurs in both prokaryotes and eukaryotes and needs no oxygen.",
+         "hy": true
+        },
+        {
+         "q": "Net products of glycolysis per glucose:",
+         "options": [
+          "4 pyruvate, 4 ATP",
+          "2 pyruvate, 2 ATP, 2 NADH",
+          "2 pyruvate, 4 ATP net",
+          "1 pyruvate, 2 NADH"
+         ],
+         "answer": 1,
+         "explain": "4 ATP are made and 2 are used (investment phase)."
+        },
+        {
+         "q": "The main rate-limiting enzyme of glycolysis is:",
+         "options": [
+          "Phosphofructokinase (PFK)",
+          "Hexokinase",
+          "Aldolase",
+          "Enolase"
+         ],
+         "answer": 0,
+         "explain": "It makes fructose-1,6-bisphosphate.",
+         "hy": true
+        },
+        {
+         "q": "Aldolase splits fructose-1,6-bisphosphate into:",
+         "options": [
+          "Two pyruvate",
+          "Glucose and fructose",
+          "Two ATP",
+          "DHAP and G3P"
+         ],
+         "answer": 3,
+         "explain": "Triose phosphate isomerase converts DHAP to G3P."
+        },
+        {
+         "q": "Substrate-level phosphorylation occurs at:",
+         "options": [
+          "Hexokinase",
+          "Aldolase",
+          "Phosphoglycerate kinase and pyruvate kinase",
+          "Enolase"
+         ],
+         "answer": 2,
+         "explain": "ATP is made by direct transfer of phosphate."
+        },
+        {
+         "q": "Without oxygen, pyruvate is fermented to:",
+         "options": [
+          "CO2 only",
+          "Lactate in animals, ethanol in yeast",
+          "Acetyl-CoA",
+          "Citrate"
+         ],
+         "answer": 1,
+         "explain": "Fermentation regenerates NAD+."
+        }
+       ]
+      },
+      {
+       "id": "gb_cac",
+       "name": "Citric Acid Cycle",
+       "questions": [
+        {
+         "q": "Pyruvate is converted to acetyl-CoA by:",
+         "options": [
+          "Pyruvate oxidation (link reaction) with release of CO2",
+          "Glycolysis",
+          "The ETC",
+          "Fermentation"
+         ],
+         "answer": 0,
+         "explain": "A carbon leaves as CO2 and NAD+ is reduced to NADH."
+        },
+        {
+         "q": "The citric acid cycle occurs in the:",
+         "options": [
+          "Cytosol of eukaryotes",
+          "Nucleus",
+          "Inner membrane only",
+          "Mitochondrial matrix"
+         ],
+         "answer": 3,
+         "explain": "In prokaryotes it occurs in the cytosol."
+        },
+        {
+         "q": "The citric acid cycle is amphibolic, which means it has:",
+         "options": [
+          "Only catabolic roles",
+          "Only anabolic roles",
+          "Both catabolic and anabolic roles",
+          "No energy role"
+         ],
+         "answer": 2,
+         "explain": "It provides intermediates for amino acids and other molecules.",
+         "hy": true
+        },
+        {
+         "q": "The first step of the cycle combines oxaloacetate with acetyl-CoA to form:",
+         "options": [
+          "Isocitrate",
+          "Citrate",
+          "Succinate",
+          "Malate"
+         ],
+         "answer": 1,
+         "explain": "Enzyme: citrate synthase."
+        },
+        {
+         "q": "Which enzyme is the rate-limiting enzyme of the cycle?",
+         "options": [
+          "Isocitrate dehydrogenase",
+          "Citrate synthase",
+          "Fumarase",
+          "Aconitase"
+         ],
+         "answer": 0,
+         "explain": "Pyruvate dehydrogenase is the gatekeeper into the cycle.",
+         "hy": true
+        },
+        {
+         "q": "Succinate dehydrogenase is special because it:",
+         "options": [
+          "Is in the cytosol",
+          "Makes NADH",
+          "Makes GTP",
+          "Is embedded in the inner membrane and is Complex II of the ETC"
+         ],
+         "answer": 3,
+         "explain": "It produces FADH2 (step 6)."
+        },
+        {
+         "q": "The cycle's main role is to produce:",
+         "options": [
+          "Large amounts of ATP directly",
+          "Glucose",
+          "NADH and FADH2 for oxidative phosphorylation",
+          "Oxygen"
+         ],
+         "answer": 2,
+         "explain": "It was described by Hans Krebs in 1937."
+        }
+       ]
+      },
+      {
+       "id": "gb_etc",
+       "name": "Electron Transport & CYP450",
+       "questions": [
+        {
+         "q": "The final electron acceptor of the ETC is:",
+         "options": [
+          "NAD+",
+          "Oxygen (forming water)",
+          "Cytochrome c",
+          "FAD"
+         ],
+         "answer": 1,
+         "explain": "Without oxygen, the chain stops and ATP production drops sharply.",
+         "hy": true
+        },
+        {
+         "q": "In the ETC, protons are pumped into the:",
+         "options": [
+          "Intermembrane space",
+          "Matrix",
+          "Cytosol",
+          "Nucleus"
+         ],
+         "answer": 0,
+         "explain": "This creates the proton gradient."
+        },
+        {
+         "q": "ATP synthase makes ATP as:",
+         "options": [
+          "Electrons enter Complex I",
+          "O2 binds",
+          "NADH is oxidized in the cytosol",
+          "H+ flows back into the matrix (chemiosmosis)"
+         ],
+         "answer": 3,
+         "explain": "The F0 c-ring rotates and the F1 head makes ATP from ADP + Pi.",
+         "hy": true
+        },
+        {
+         "q": "Complex II of the ETC receives electrons from:",
+         "options": [
+          "NADH",
+          "Oxygen",
+          "FADH2 (succinate dehydrogenase)",
+          "Cytochrome c"
+         ],
+         "answer": 2,
+         "explain": "Complex I receives from NADH."
+        },
+        {
+         "q": "Oxidative phosphorylation yields about how much ATP per glucose?",
+         "options": [
+          "2 ATP",
+          "26-28 ATP",
+          "4 ATP",
+          "100 ATP"
+         ],
+         "answer": 1,
+         "explain": "Most ATP comes from the ETC and ATP synthase."
+        },
+        {
+         "q": "The CYP450 hydroxylase cycle uses:",
+         "options": [
+          "O2 and NADPH",
+          "NAD+ and CO2",
+          "ATP and glucose",
+          "Water only"
+         ],
+         "answer": 0,
+         "explain": "Overall: RH + O2 + NADPH gives ROH + H2O.",
+         "hy": true
+        },
+        {
+         "q": "CYP450 enzymes are found in the:",
+         "options": [
+          "Nucleus",
+          "Cell wall",
+          "Vacuole",
+          "Smooth ER and inner mitochondrial membrane"
+         ],
+         "answer": 3,
+         "explain": "Most are in the liver; they detoxify and make steroids."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "6 · Plant Tissues",
+     "notes": "Meristems divide to make new cells: apical (length), intercalary (grasses), lateral (girth: vascular and cork cambium). Simple tissues: parenchyma, collenchyma, sclerenchyma. Systems: dermal, vascular (xylem, phloem), ground.",
+     "sections": [
+      {
+       "id": "gb_mer",
+       "name": "Meristems",
+       "questions": [
+        {
+         "q": "Meristematic cells are:",
+         "options": [
+          "Dead cells",
+          "Specialized transport cells",
+          "Unspecialized cells that divide indefinitely",
+          "Fully mature cells"
+         ],
+         "answer": 2,
+         "explain": "They are at root and shoot tips.",
+         "hy": true
+        },
+        {
+         "q": "Which is a characteristic of meristematic cells?",
+         "options": [
+          "Large vacuoles",
+          "Dense protoplasm, prominent nucleus, few small vacuoles",
+          "Thick lignified walls",
+          "No nucleus"
+         ],
+         "answer": 1,
+         "explain": "They are living with thin walls and store no reserve food."
+        },
+        {
+         "q": "The promeristem is:",
+         "options": [
+          "Early embryonic meristem that produces primary meristems",
+          "A lateral meristem",
+          "Cork cambium",
+          "A permanent tissue"
+         ],
+         "answer": 0,
+         "explain": "It is made of initials."
+        },
+        {
+         "q": "Protoderm forms the:",
+         "options": [
+          "Cortex and pith",
+          "Xylem and phloem",
+          "Cork",
+          "Epidermis"
+         ],
+         "answer": 3,
+         "explain": "Ground meristem forms cortex and pith; procambium forms primary xylem and phloem.",
+         "hy": true
+        },
+        {
+         "q": "Procambium produces:",
+         "options": [
+          "Epidermis",
+          "Cortex",
+          "Primary xylem and primary phloem",
+          "Cork"
+         ],
+         "answer": 2,
+         "explain": "It is a primary meristem."
+        },
+        {
+         "q": "Secondary meristems are responsible for:",
+         "options": [
+          "Primary growth",
+          "Secondary growth (thickness, girth)",
+          "Root hair formation",
+          "Leaf formation"
+         ],
+         "answer": 1,
+         "explain": "They are vascular cambium and cork cambium.",
+         "hy": true
+        },
+        {
+         "q": "Cork cambium produces:",
+         "options": [
+          "Periderm (secondary dermal tissue)",
+          "Xylem",
+          "Phloem",
+          "Pith"
+         ],
+         "answer": 0,
+         "explain": "Vascular cambium produces secondary xylem and phloem."
+        },
+        {
+         "q": "Apical meristems cause:",
+         "options": [
+          "Girth",
+          "Leaf shape",
+          "Fruit formation",
+          "Primary growth (increase in length)"
+         ],
+         "answer": 3,
+         "explain": "They are at tips of roots and shoots."
+        },
+        {
+         "q": "Intercalary meristems are common in:",
+         "options": [
+          "Trees only",
+          "Cacti only",
+          "Grasses and monocots (rice, corn, sugarcane, bamboo)",
+          "Ferns only"
+         ],
+         "answer": 2,
+         "explain": "They are at the base of leaves, nodes and internodes."
+        }
+       ]
+      },
+      {
+       "id": "gb_simple",
+       "name": "Simple & Complex Tissues",
+       "questions": [
+        {
+         "q": "The most abundant plant cell type is:",
+         "options": [
+          "Collenchyma",
+          "Parenchyma",
+          "Sclerenchyma",
+          "Tracheid"
+         ],
+         "answer": 1,
+         "explain": "They have thin primary walls and large vacuoles.",
+         "hy": true
+        },
+        {
+         "q": "Aerenchyma gives plants:",
+         "options": [
+          "Buoyancy so they can float",
+          "Strength",
+          "Flexibility",
+          "Wound healing"
+         ],
+         "answer": 0,
+         "explain": "Chlorenchyma performs photosynthesis."
+        },
+        {
+         "q": "Collenchyma cells:",
+         "options": [
+          "Are dead at maturity",
+          "Have lignified walls",
+          "Conduct water",
+          "Are alive at maturity and give flexibility"
+         ],
+         "answer": 3,
+         "explain": "The name comes from Greek 'kolla' = glue.",
+         "hy": true
+        },
+        {
+         "q": "Sclerenchyma cells:",
+         "options": [
+          "Are thin-walled",
+          "Are alive and flexible",
+          "Have thick lignified secondary walls and are mostly dead at maturity",
+          "Are photosynthetic"
+         ],
+         "answer": 2,
+         "explain": "Two kinds: fibers and sclereids."
+        },
+        {
+         "q": "Sclereids are:",
+         "options": [
+          "Long flexible fibers",
+          "Cubical or spherical cells that make structures rock-hard",
+          "Water conducting",
+          "Photosynthetic cells"
+         ],
+         "answer": 1,
+         "explain": "Fibers are elongated."
+        },
+        {
+         "q": "The three tissue systems of vascular plants are:",
+         "options": [
+          "Dermal, vascular, ground",
+          "Apical, lateral, intercalary",
+          "Xylem, phloem, cork",
+          "Simple, complex, meristematic"
+         ],
+         "answer": 0,
+         "explain": "All originate from meristematic cells."
+        },
+        {
+         "q": "The cuticle on the epidermis is made of:",
+         "options": [
+          "Cellulose",
+          "Lignin",
+          "Pectin",
+          "Cutin"
+         ],
+         "answer": 3,
+         "explain": "It prevents water loss."
+        },
+        {
+         "q": "Guard cells form tiny holes called:",
+         "options": [
+          "Lenticels",
+          "Trichomes",
+          "Stomata",
+          "Pits"
+         ],
+         "answer": 2,
+         "explain": "They allow gas exchange."
+        },
+        {
+         "q": "Trichomes are:",
+         "options": [
+          "Stomata",
+          "Hair-like extensions of the epidermis",
+          "Root caps",
+          "Xylem cells"
+         ],
+         "answer": 1,
+         "explain": "Example: stinging hairs of nettle (Urtica)."
+        },
+        {
+         "q": "Periderm consists mainly of:",
+         "options": [
+          "Nonliving cork cells",
+          "Living parenchyma",
+          "Guard cells",
+          "Xylem"
+         ],
+         "answer": 0,
+         "explain": "It replaces the epidermis in plants with more than one growing season."
+        }
+       ]
+      },
+      {
+       "id": "gb_vasc",
+       "name": "Xylem, Phloem & Ground Tissue",
+       "questions": [
+        {
+         "q": "Xylem conducts:",
+         "options": [
+          "Food from leaves",
+          "Hormones only",
+          "Gases",
+          "Water and minerals from root upward"
+         ],
+         "answer": 3,
+         "explain": "It also gives mechanical support.",
+         "hy": true
+        },
+        {
+         "q": "Phloem conducts:",
+         "options": [
+          "Water from roots",
+          "Minerals only",
+          "Food and organic nutrients from leaves to the rest of the plant",
+          "Gases"
+         ],
+         "answer": 2,
+         "explain": "The contents carried by xylem and phloem are called sap."
+        },
+        {
+         "q": "The only living cells of xylem are:",
+         "options": [
+          "Tracheids",
+          "Xylem parenchyma",
+          "Vessel elements",
+          "Xylem fibres"
+         ],
+         "answer": 1,
+         "explain": "They store starch and oil.",
+         "hy": true
+        },
+        {
+         "q": "Vessel elements are connected end to end through:",
+         "options": [
+          "Perforation plates",
+          "Sieve plates",
+          "Plasmodesmata",
+          "Torus"
+         ],
+         "answer": 0,
+         "explain": "Tracheids have perforated pits."
+        },
+        {
+         "q": "Sieve-tube elements at maturity:",
+         "options": [
+          "Have lignified walls",
+          "Are dead",
+          "Have no cytoplasm",
+          "Lack a nucleus and are supported by companion cells"
+         ],
+         "answer": 3,
+         "explain": "Companion cells connect via plasmodesmata and supply proteins.",
+         "hy": true
+        },
+        {
+         "q": "Sieve plates are:",
+         "options": [
+          "Walls of vessels",
+          "Pits in tracheids",
+          "Pores that let materials pass from cell to cell",
+          "Guard cells"
+         ],
+         "answer": 2,
+         "explain": "They are in sieve tubes."
+        },
+        {
+         "q": "Ground tissue between dermal and vascular tissue is called the:",
+         "options": [
+          "Periderm",
+          "Cortex (pith is inside the vascular tissue)",
+          "Cambium",
+          "Epidermis"
+         ],
+         "answer": 1,
+         "explain": "It is also called the fundamental tissue system."
+        },
+        {
+         "q": "Vascular plants are also called:",
+         "options": [
+          "Tracheophyta",
+          "Bryophyta",
+          "Thallophyta",
+          "Chlorophyta"
+         ],
+         "answer": 0,
+         "explain": "They have a well-developed conducting system."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "7 · Root System",
+     "notes": "Two systems: tap root (from radicle) and adventitious. Typical root has 5 parts: root cap, growing point, zone of elongation, root hair zone, zone of maturation. Know the modified roots and their examples.",
+     "sections": [
+      {
+       "id": "gb_root1",
+       "name": "Structure of the Root",
+       "questions": [
+        {
+         "q": "Roots differ from stems because roots:",
+         "options": [
+          "Have nodes",
+          "Have leaves",
+          "Are always green",
+          "Have no nodes, internodes, leaves or buds"
+         ],
+         "answer": 3,
+         "explain": "The root tip is covered by a root cap (calyptra).",
+         "hy": true
+        },
+        {
+         "q": "Roots are:",
+         "options": [
+          "Negatively geotropic",
+          "Positively phototropic",
+          "Positively geotropic and negatively phototropic",
+          "Negatively hydrotropic"
+         ],
+         "answer": 2,
+         "explain": "They are also positively hydrotropic."
+        },
+        {
+         "q": "The tap root system originates from the:",
+         "options": [
+          "Stem",
+          "Radicle",
+          "Leaf",
+          "Hypocotyl only"
+         ],
+         "answer": 1,
+         "explain": "Secondary and tertiary roots arise from the tap root.",
+         "hy": true
+        },
+        {
+         "q": "The adventitious root system:",
+         "options": [
+          "Arises from the stem or leaf and has no root cap or root hairs",
+          "Arises from the radicle",
+          "Has a single main root",
+          "Is always underground"
+         ],
+         "answer": 0,
+         "explain": "It has many roots of equal length."
+        },
+        {
+         "q": "The root cap (calyptra) protects the:",
+         "options": [
+          "Root hairs",
+          "Xylem",
+          "Cortex",
+          "Growing point against friction from soil"
+         ],
+         "answer": 3,
+         "explain": "It is rich in starch and helps gravitropism."
+        },
+        {
+         "q": "Cells in the zone of elongation grow by:",
+         "options": [
+          "Cell division",
+          "Secondary growth",
+          "Vacuolization",
+          "Lateral root formation"
+         ],
+         "answer": 2,
+         "explain": "They have lost the power of division."
+        },
+        {
+         "q": "The root hair zone is also called the:",
+         "options": [
+          "Meristematic zone",
+          "Piliferous region",
+          "Zone of maturation",
+          "Root cap"
+         ],
+         "answer": 1,
+         "explain": "Root hairs are unicellular and ephemeral.",
+         "hy": true
+        },
+        {
+         "q": "Lateral roots arise from the:",
+         "options": [
+          "Zone of maturation",
+          "Root cap",
+          "Growing point",
+          "Zone of elongation"
+         ],
+         "answer": 0,
+         "explain": "Secondary growth also takes place there."
+        },
+        {
+         "q": "The growing point (meristematic zone) is about:",
+         "options": [
+          "10 mm",
+          "8 mm",
+          "1 cm",
+          "1 mm long and is the zone of cell division"
+         ],
+         "answer": 3,
+         "explain": "Calyptrogen forms the root cap; histogen forms the rest."
+        }
+       ]
+      },
+      {
+       "id": "gb_root2",
+       "name": "Modified Roots & Symbiosis",
+       "questions": [
+        {
+         "q": "Which is a conical taproot?",
+         "options": [
+          "Radish",
+          "Turnip",
+          "Carrot",
+          "Mirabilis"
+         ],
+         "answer": 2,
+         "explain": "Fusiform: radish. Napiform: turnip. Tuberous: Mirabilis.",
+         "hy": true
+        },
+        {
+         "q": "A spindle-shaped, thick-in-the-middle taproot is:",
+         "options": [
+          "Conical",
+          "Fusiform (radish)",
+          "Napiform",
+          "Tuberous"
+         ],
+         "answer": 1,
+         "explain": "The hypocotyl forms 2/3 of the fleshy part."
+        },
+        {
+         "q": "A nearly spherical taproot that suddenly thins at the apex is:",
+         "options": [
+          "Napiform (turnip)",
+          "Conical",
+          "Fusiform",
+          "Tuberous"
+         ],
+         "answer": 0,
+         "explain": "The swollen part is formed by the hypocotyl."
+        },
+        {
+         "q": "Sweet potato has:",
+         "options": [
+          "Fasciculated roots",
+          "Taproots",
+          "Stilt roots",
+          "Tuberous adventitious roots arising singly from nodes"
+         ],
+         "answer": 3,
+         "explain": "They store starch."
+        },
+        {
+         "q": "Dahlia has fasciculated roots that store food as:",
+         "options": [
+          "Starch",
+          "Glycogen",
+          "Inulin",
+          "Cellulose"
+         ],
+         "answer": 2,
+         "explain": "They arise in clusters from the lower node."
+        },
+        {
+         "q": "Pneumatophores are:",
+         "options": [
+          "Storage roots",
+          "Respiratory roots of mangroves growing in oxygen-poor mud",
+          "Climbing roots",
+          "Parasitic roots"
+         ],
+         "answer": 1,
+         "explain": "They are negatively geotropic and bear lenticels (e.g. Avicennia).",
+         "hy": true
+        },
+        {
+         "q": "Stilt roots in mangroves (Rhizophora) are for:",
+         "options": [
+          "Support (anchoring)",
+          "Storage",
+          "Photosynthesis",
+          "Climbing"
+         ],
+         "answer": 0,
+         "explain": "Mangroves are halophytes in salty wetlands."
+        },
+        {
+         "q": "The rhizosphere is:",
+         "options": [
+          "The root cap",
+          "The vascular cylinder",
+          "The root hair zone",
+          "The area of soil influenced by root exudates that promote microbes"
+         ],
+         "answer": 3,
+         "explain": "The rhizoplane is the microhabitat of microbes on the root surface."
+        },
+        {
+         "q": "In ectotrophic mycorrhiza, the fungus:",
+         "options": [
+          "Lives inside cortex cells",
+          "Is a bacterium",
+          "Lives mostly outside the root as a wooly sheath (e.g. Pinus, oak)",
+          "Makes nodules"
+         ],
+         "answer": 2,
+         "explain": "Endotrophic types live inside cortex cells.",
+         "hy": true
+        },
+        {
+         "q": "Vesicular arbuscular mycorrhiza (VAM) helps in:",
+         "options": [
+          "Nitrogen fixation",
+          "Phosphate absorption",
+          "Photosynthesis",
+          "Water storage"
+         ],
+         "answer": 1,
+         "explain": "It is a common endomycorrhiza."
+        },
+        {
+         "q": "Root nodules of pea are involved in:",
+         "options": [
+          "Nitrogen fixation",
+          "Respiration",
+          "Storage",
+          "Climbing"
+         ],
+         "answer": 0,
+         "explain": "This is reciprocal symbiosis with bacteria."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "8 · Stem",
+     "notes": "External structures: bud, node, internode, leaf scar, bundle scar, lenticel, bark. Stem types: herbaceous, suffrutescent, woody. Modifications: underground, sub-aerial, aerial.",
+     "sections": [
+      {
+       "id": "gb_stem1",
+       "name": "External Structures",
+       "questions": [
+        {
+         "q": "The first stem of a plant arises from the:",
+         "options": [
+          "Radicle",
+          "Hypocotyl",
+          "Cotyledon",
+          "Epicotyl"
+         ],
+         "answer": 3,
+         "explain": "It is the embryonic shoot in the seed."
+        },
+        {
+         "q": "The terminal bud suppresses lateral buds by releasing:",
+         "options": [
+          "Cytokinin",
+          "Gibberellin",
+          "Auxin",
+          "Ethylene"
+         ],
+         "answer": 2,
+         "explain": "This focuses growth upward.",
+         "hy": true
+        },
+        {
+         "q": "A node is:",
+         "options": [
+          "The part between nodes",
+          "The part of the stem where leaves and lateral buds attach",
+          "The leaf scar",
+          "The terminal bud"
+         ],
+         "answer": 1,
+         "explain": "The internode is the section between two nodes."
+        },
+        {
+         "q": "Lenticels are:",
+         "options": [
+          "Pores for gas exchange",
+          "Buds",
+          "Scars",
+          "Leaf bases"
+         ],
+         "answer": 0,
+         "explain": "A leaf scar is the mark left after a leaf falls."
+        },
+        {
+         "q": "A bundle scar is:",
+         "options": [
+          "A bud scale",
+          "A pore",
+          "A thorn",
+          "A mark from vascular tissue attachment, used to identify woody plants"
+         ],
+         "answer": 3,
+         "explain": "It is inside the leaf scar."
+        },
+        {
+         "q": "Banana has a:",
+         "options": [
+          "Woody stem",
+          "Suffrutescent stem",
+          "Herbaceous stem",
+          "Tuber"
+         ],
+         "answer": 2,
+         "explain": "It has no permanent woody tissue and dies after flowering.",
+         "hy": true
+        },
+        {
+         "q": "Eggplant and jute have:",
+         "options": [
+          "Herbaceous stems",
+          "Suffrutescent (half-woody) stems",
+          "Woody stems",
+          "Corms"
+         ],
+         "answer": 1,
+         "explain": "They are woody at the base."
+        },
+        {
+         "q": "The woody part of the stem is made of:",
+         "options": [
+          "Secondary xylem",
+          "Secondary phloem",
+          "Cork",
+          "Pith"
+         ],
+         "answer": 0,
+         "explain": "Woody stems persist indefinitely."
+        }
+       ]
+      },
+      {
+       "id": "gb_stem2",
+       "name": "Stem Modifications",
+       "questions": [
+        {
+         "q": "Ginger and turmeric have:",
+         "options": [
+          "Tubers",
+          "Bulbs",
+          "Corms",
+          "Rhizomes"
+         ],
+         "answer": 3,
+         "explain": "A rhizome is a thick horizontal stem storing food.",
+         "hy": true
+        },
+        {
+         "q": "Potato is a:",
+         "options": [
+          "Rhizome",
+          "Bulb",
+          "Tuber (swollen end of an underground branch)",
+          "Corm"
+         ],
+         "answer": 2,
+         "explain": "The 'eyes' are leaf scars with an axillary bud."
+        },
+        {
+         "q": "Onion and garlic have:",
+         "options": [
+          "Corms",
+          "Bulbs (reduced disc stem with fleshy leaves)",
+          "Tubers",
+          "Rhizomes"
+         ],
+         "answer": 1,
+         "explain": "Tunicated bulbs have concentric leaf bases."
+        },
+        {
+         "q": "Colocasia and Amorphophallus have:",
+         "options": [
+          "Corms",
+          "Tubers",
+          "Bulbs",
+          "Rhizomes"
+         ],
+         "answer": 0,
+         "explain": "A corm is a swollen basal part of an erect stem."
+        },
+        {
+         "q": "Runners (Oxalis, Fragaria) are:",
+         "options": [
+          "Underground stems",
+          "Thorns",
+          "Tendrils",
+          "Sub-aerial stems that run along the soil and root at nodes"
+         ],
+         "answer": 3,
+         "explain": "Other sub-aerial types: offset, stolon, sucker.",
+         "hy": true
+        },
+        {
+         "q": "Offsets are seen in:",
+         "options": [
+          "Oxalis",
+          "Potato",
+          "Pistia and Eichhornia",
+          "Onion"
+         ],
+         "answer": 2,
+         "explain": "They are short thick runner-like branches."
+        },
+        {
+         "q": "Opuntia has a flattened green stem called a:",
+         "options": [
+          "Cladode",
+          "Phylloclade",
+          "Bulbil",
+          "Tendril"
+         ],
+         "answer": 1,
+         "explain": "The spines are modified leaves."
+        },
+        {
+         "q": "Stem thorns (e.g. Citrus, Duranta) function to:",
+         "options": [
+          "Reduce transpiration and protect from herbivores",
+          "Store food",
+          "Climb",
+          "Make seeds"
+         ],
+         "answer": 0,
+         "explain": "Spines are modified leaves; prickles have no vascular tissue."
+        },
+        {
+         "q": "Bulbils are:",
+         "options": [
+          "Storage roots",
+          "Thorns",
+          "Flowers",
+          "Multicellular bodies for reproduction (Agave, Dioscorea)"
+         ],
+         "answer": 3,
+         "explain": "They detach and grow into new plants."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "9 · Leaf",
+     "notes": "Parts: leaf base (hypopodium), stalk (mesopodium), lamina (epipodium). Venation: reticulate in dicots, parallel in monocots. Simple vs compound (pinnate, palmate). Phyllotaxy: alternate, opposite, whorled. Modifications: tendrils, hooks, spines, scales, pitcher, phyllode.",
+     "sections": [
+      {
+       "id": "gb_leaf1",
+       "name": "Parts, Venation & Types",
+       "questions": [
+        {
+         "q": "Leaves are produced from leaf primordia, so they are:",
+         "options": [
+          "Endogenous",
+          "Adventitious",
+          "Exogenous in origin",
+          "Cauline"
+         ],
+         "answer": 2,
+         "explain": "They arise from a superficial meristematic tissue.",
+         "hy": true
+        },
+        {
+         "q": "The three parts of a dicot leaf are:",
+         "options": [
+          "Blade, sheath, ligule",
+          "Leaf base, leaf stalk, lamina",
+          "Node, internode, bud",
+          "Rachis, petiole, stipule"
+         ],
+         "answer": 1,
+         "explain": "Hypopodium, mesopodium and epipodium."
+        },
+        {
+         "q": "A swollen leaf base is called a:",
+         "options": [
+          "Pulvinus (responsible for nyctinasty in Mimosa)",
+          "Stipule",
+          "Ligule",
+          "Rachis"
+         ],
+         "answer": 0,
+         "explain": "Leaves with it are pulvinate."
+        },
+        {
+         "q": "Monocot leaves have a leaf base that is:",
+         "options": [
+          "Swollen",
+          "Stipulate",
+          "Winged",
+          "Sheathing"
+         ],
+         "answer": 3,
+         "explain": "Examples: banana and grasses."
+        },
+        {
+         "q": "Stipules are:",
+         "options": [
+          "Leaf stalks",
+          "Leaf tips",
+          "Leafy outgrowths from the leaf base that protect buds",
+          "Veins"
+         ],
+         "answer": 2,
+         "explain": "Leaves with stipules are stipulate (Hibiscus)."
+        },
+        {
+         "q": "The stalk of a compound leaf is called a:",
+         "options": [
+          "Petiole",
+          "Rachis",
+          "Ligule",
+          "Pulvinus"
+         ],
+         "answer": 1,
+         "explain": "The stalk of a simple leaf is a petiole.",
+         "hy": true
+        },
+        {
+         "q": "A leaf without a stalk is:",
+         "options": [
+          "Sessile",
+          "Petiolate",
+          "Pulvinate",
+          "Stipulate"
+         ],
+         "answer": 0,
+         "explain": "Examples: Calotropis, Zinnia."
+        },
+        {
+         "q": "Reticulate venation is typical of:",
+         "options": [
+          "Monocots",
+          "Ferns only",
+          "Mosses",
+          "Dicots"
+         ],
+         "answer": 3,
+         "explain": "Parallel venation is typical of monocots. There are exceptions (e.g. Calophyllum).",
+         "hy": true
+        },
+        {
+         "q": "A compound leaf differs from a branch because it has:",
+         "options": [
+          "Terminal buds",
+          "Nodes and internodes",
+          "No axillary buds in the axils of leaflets and no terminal bud",
+          "Flowers"
+         ],
+         "answer": 2,
+         "explain": "A branch has buds and nodes."
+        },
+        {
+         "q": "In paripinnate leaves, leaflets are:",
+         "options": [
+          "Odd-numbered",
+          "Even-numbered, ending in a pair",
+          "Single",
+          "Whorled"
+         ],
+         "answer": 1,
+         "explain": "Examples: Tamarindus. Imparipinnate: rose, neem.",
+         "hy": true
+        },
+        {
+         "q": "Bipinnate leaves (Acacia, Mimosa) are:",
+         "options": [
+          "Pinnate twice (rachis with rachillae)",
+          "Pinnate once",
+          "Pinnate thrice",
+          "Palmate"
+         ],
+         "answer": 0,
+         "explain": "Tripinnate: Moringa."
+        },
+        {
+         "q": "Palmately compound leaves have leaflets that:",
+         "options": [
+          "Are in two ranks",
+          "Are on both sides of rachis",
+          "Have terminal buds",
+          "Radiate from the tip of the rachis like fingers on a palm"
+         ],
+         "answer": 3,
+         "explain": "Unifoliate: citrus. Trifoliate: rubber. Multifoliate: tapioca."
+        }
+       ]
+      },
+      {
+       "id": "gb_leaf2",
+       "name": "Lamina, Margin, Apex & Phyllotaxy",
+       "questions": [
+        {
+         "q": "A heart-shaped lamina is:",
+         "options": [
+          "Reniform",
+          "Ovate",
+          "Cordate",
+          "Sagittate"
+         ],
+         "answer": 2,
+         "explain": "Reniform is kidney-shaped; sagittate is arrow-shaped."
+        },
+        {
+         "q": "A kidney-shaped lamina is:",
+         "options": [
+          "Cordate",
+          "Reniform (e.g. Centella)",
+          "Orbicular",
+          "Cuneate"
+         ],
+         "answer": 1,
+         "explain": "It has a shallow depression at the base."
+        },
+        {
+         "q": "A lamina that is lance-shaped and broadest near the stalk is:",
+         "options": [
+          "Lanceolate",
+          "Oblanceolate",
+          "Elliptical",
+          "Oblong"
+         ],
+         "answer": 0,
+         "explain": "Oblanceolate is broadest near the apex."
+        },
+        {
+         "q": "An entire margin is:",
+         "options": [
+          "Toothed",
+          "Wavy",
+          "Lobed",
+          "Even and smooth (e.g. mango)"
+         ],
+         "answer": 3,
+         "explain": "Undulate margins are wavy."
+        },
+        {
+         "q": "Serrate margins have:",
+         "options": [
+          "Rounded teeth",
+          "Smooth edges",
+          "Pointed teeth projecting upward, saw-like",
+          "Spines"
+         ],
+         "answer": 2,
+         "explain": "Crenate margins have rounded teeth."
+        },
+        {
+         "q": "An acuminate apex:",
+         "options": [
+          "Is blunt",
+          "Narrows gradually to a long slender tail",
+          "Has a notch",
+          "Ends in a spine"
+         ],
+         "answer": 1,
+         "explain": "Example: Ficus religiosa.",
+         "hy": true
+        },
+        {
+         "q": "An emarginate apex has:",
+         "options": [
+          "A deep notch at the tip",
+          "A blunt tip",
+          "A sharp point",
+          "A tail"
+         ],
+         "answer": 0,
+         "explain": "Retuse has a shallow notch."
+        },
+        {
+         "q": "A glabrous leaf surface is:",
+         "options": [
+          "Covered with soft hairs",
+          "Rough",
+          "Covered with matted hairs",
+          "Smooth and shiny"
+         ],
+         "answer": 3,
+         "explain": "Pubescent is short soft hairs; tomentose is matted hairs."
+        },
+        {
+         "q": "Phyllotaxy is:",
+         "options": [
+          "The shape of leaves",
+          "The venation pattern",
+          "The arrangement of leaves on the stem",
+          "The leaf margin"
+         ],
+         "answer": 2,
+         "explain": "Its main purpose is to give leaves enough light."
+        },
+        {
+         "q": "Whorled phyllotaxy has:",
+         "options": [
+          "One leaf per node",
+          "Three or more leaves at each node (e.g. Nerium)",
+          "Two leaves per node",
+          "Leaves in a rosette only"
+         ],
+         "answer": 1,
+         "explain": "Alternate has one leaf per node; opposite has two.",
+         "hy": true
+        },
+        {
+         "q": "In decussate phyllotaxy, adjacent pairs of leaves are:",
+         "options": [
+          "At right angles to each other",
+          "One above the other",
+          "Spiral",
+          "In a whorl"
+         ],
+         "answer": 0,
+         "explain": "Examples: Ixora, Calotropis. Superposed pairs are directly above."
+        },
+        {
+         "q": "Heterophylly is:",
+         "options": [
+          "Leaf folding",
+          "Leaf fall",
+          "Leaf venation",
+          "More than one type of leaf on the same plant"
+         ],
+         "answer": 3,
+         "explain": "Example: Limnophila heterophylla."
+        }
+       ]
+      },
+      {
+       "id": "gb_leaf3",
+       "name": "Leaf Modifications & Functions",
+       "questions": [
+        {
+         "q": "Leaf tendrils help plants to:",
+         "options": [
+          "Store water",
+          "Trap insects",
+          "Climb",
+          "Float"
+         ],
+         "answer": 2,
+         "explain": "Example: Pisum, Lathyrus.",
+         "hy": true
+        },
+        {
+         "q": "Leaf spines are common in:",
+         "options": [
+          "Hydrophytes",
+          "Xerophytic plants; they defend and reduce transpiration",
+          "Epiphytes",
+          "Ferns"
+         ],
+         "answer": 1,
+         "explain": "Example: Opuntia."
+        },
+        {
+         "q": "Onion leaf scales:",
+         "options": [
+          "Are fleshy and protect/store food in the bulb",
+          "Trap insects",
+          "Climb",
+          "Are spines"
+         ],
+         "answer": 0,
+         "explain": "They are thin, stalkless and membranous."
+        },
+        {
+         "q": "A pitcher (Nepenthes) is a modification of the:",
+         "options": [
+          "Stem",
+          "Root",
+          "Flower",
+          "Leaf lamina for trapping insects"
+         ],
+         "answer": 3,
+         "explain": "The lid is called the operculum.",
+         "hy": true
+        },
+        {
+         "q": "A phyllode is a flattened:",
+         "options": [
+          "Stem",
+          "Root",
+          "Petiole or rachis that does photosynthesis (Acacia)",
+          "Flower"
+         ],
+         "answer": 2,
+         "explain": "It reduces transpiration."
+        },
+        {
+         "q": "Which is a function of leaves?",
+         "options": [
+          "Anchoring",
+          "Photosynthesis, gas exchange, storage, defense, propagation",
+          "Water absorption by root hairs",
+          "Seed dispersal only"
+         ],
+         "answer": 1,
+         "explain": "Also climbing, food capture and pollination by color."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "10 · Flower",
+     "notes": "Four parts: calyx, corolla (non-essential) and androecium, gynoecium (essential). After fertilization the ovary becomes the fruit, the ovary wall the fruit coat, and the ovules the seeds.",
+     "sections": [
+      {
+       "id": "gb_fl1",
+       "name": "Parts of the Flower",
+       "questions": [
+        {
+         "q": "The four parts of a flower are:",
+         "options": [
+          "Calyx, corolla, androecium, gynoecium",
+          "Sepal, anther, root, leaf",
+          "Stigma, style, ovary, petal",
+          "Calyx, stamen, carpel, seed"
+         ],
+         "answer": 0,
+         "explain": "The calyx and corolla are non-essential parts.",
+         "hy": true
+        },
+        {
+         "q": "The essential parts of a flower are:",
+         "options": [
+          "Calyx and corolla",
+          "Calyx and gynoecium",
+          "Corolla and androecium",
+          "Androecium and gynoecium"
+         ],
+         "answer": 3,
+         "explain": "They are the reproductive parts.",
+         "hy": true
+        },
+        {
+         "q": "The calyx is the:",
+         "options": [
+          "Second whorl",
+          "Male part",
+          "Outermost whorl, made of sepals",
+          "Female part"
+         ],
+         "answer": 2,
+         "explain": "The corolla is the second whorl made of petals."
+        },
+        {
+         "q": "Polysepalous means sepals are:",
+         "options": [
+          "Fused",
+          "Free (e.g. rose)",
+          "Absent",
+          "Petaloid"
+         ],
+         "answer": 1,
+         "explain": "Gamosepalous: fused (e.g. Datura)."
+        },
+        {
+         "q": "A flower with fused petals is:",
+         "options": [
+          "Gamopetalous (e.g. Hibiscus, Datura)",
+          "Polypetalous",
+          "Apetalous",
+          "Polysepalous"
+         ],
+         "answer": 0,
+         "explain": "Polypetalous: free petals (rose). Apetalous: no petals."
+        },
+        {
+         "q": "Brassica rapa is an example of:",
+         "options": [
+          "Polypetalous",
+          "Gamopetalous",
+          "Complete flower",
+          "Apetalous flower"
+         ],
+         "answer": 3,
+         "explain": "Apetalous flowers lack petals."
+        },
+        {
+         "q": "The androecium is the:",
+         "options": [
+          "Female part",
+          "Calyx",
+          "Male part made of stamens",
+          "Corolla"
+         ],
+         "answer": 2,
+         "explain": "Each stamen has an anther and filament."
+        },
+        {
+         "q": "The anther:",
+         "options": [
+          "Is the stalk",
+          "Holds pollen grains",
+          "Is sticky",
+          "Develops into fruit"
+         ],
+         "answer": 1,
+         "explain": "The filament is the stalk that holds the anther."
+        },
+        {
+         "q": "The gynoecium is made of:",
+         "options": [
+          "Carpels (stigma, style, ovary)",
+          "Stamens",
+          "Sepals",
+          "Petals"
+         ],
+         "answer": 0,
+         "explain": "It is the female reproductive part."
+        },
+        {
+         "q": "The sticky top part of the carpel is the:",
+         "options": [
+          "Style",
+          "Ovary",
+          "Filament",
+          "Stigma"
+         ],
+         "answer": 3,
+         "explain": "Pollen grains stick to it."
+        },
+        {
+         "q": "After fertilization, the ovules develop into:",
+         "options": [
+          "Fruit",
+          "Fruit coat",
+          "Seeds",
+          "Petals"
+         ],
+         "answer": 2,
+         "explain": "The ovary becomes fruit and the ovary wall becomes its outer coat.",
+         "hy": true
+        },
+        {
+         "q": "The world's largest flower is:",
+         "options": [
+          "Wolffia",
+          "Rafflesia",
+          "Rose",
+          "Hibiscus"
+         ],
+         "answer": 1,
+         "explain": "The smallest is Wolffia."
+        }
+       ]
+      },
+      {
+       "id": "gb_fl2",
+       "name": "Types of Flowers",
+       "questions": [
+        {
+         "q": "A complete flower has:",
+         "options": [
+          "All four whorls",
+          "Only essential parts",
+          "Only one reproductive part",
+          "No calyx"
+         ],
+         "answer": 0,
+         "explain": "Most bisexual flowers are complete.",
+         "hy": true
+        },
+        {
+         "q": "A bisexual flower has:",
+         "options": [
+          "Only androecium",
+          "Only gynoecium",
+          "No reproductive parts",
+          "Both androecium and gynoecium"
+         ],
+         "answer": 3,
+         "explain": "Unisexual flowers are incomplete."
+        },
+        {
+         "q": "A staminate flower is:",
+         "options": [
+          "Female",
+          "Bisexual",
+          "Male (androecium present, gynoecium absent)",
+          "Complete"
+         ],
+         "answer": 2,
+         "explain": "A pistillate flower is female."
+        },
+        {
+         "q": "A pistillate flower has:",
+         "options": [
+          "Androecium only",
+          "Gynoecium only",
+          "Both",
+          "Neither"
+         ],
+         "answer": 1,
+         "explain": "It is the female flower."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "11 · Seed",
+     "notes": "A seed is a fertilized, mature ovule with a seed coat. Parts: embryo, endosperm, seed coat. Classified by cotyledons, endosperm, storage and food type.",
+     "sections": [
+      {
+       "id": "gb_seed",
+       "name": "Seed Structure & Types",
+       "questions": [
+        {
+         "q": "A seed is:",
+         "options": [
+          "A fertilized matured ovule covered with a seed coat",
+          "An unfertilized ovule",
+          "A fruit",
+          "A spore"
+         ],
+         "answer": 0,
+         "explain": "It is an embryonic plant in a protective covering.",
+         "hy": true
+        },
+        {
+         "q": "The three basic parts of a seed are:",
+         "options": [
+          "Embryo, stigma, style",
+          "Cotyledon, petal, sepal",
+          "Endosperm, ovary, anther",
+          "Embryo, endosperm, seed coat"
+         ],
+         "answer": 3,
+         "explain": "Seed formation completes reproduction in seed plants."
+        },
+        {
+         "q": "Monocot seeds have:",
+         "options": [
+          "Two cotyledons",
+          "No cotyledon",
+          "One cotyledon (wheat, corn, rice)",
+          "Three cotyledons"
+         ],
+         "answer": 2,
+         "explain": "They have adventitious roots and no secondary growth.",
+         "hy": true
+        },
+        {
+         "q": "Dicot seeds (pea, bean, mango) have:",
+         "options": [
+          "One cotyledon",
+          "Two cotyledons",
+          "No cotyledon",
+          "Four cotyledons"
+         ],
+         "answer": 1,
+         "explain": "Flower parts are in multiples of four or five."
+        },
+        {
+         "q": "Endospermic (albuminous) seeds include:",
+         "options": [
+          "Castor, poppy, custard apple",
+          "Gram, pea, bean",
+          "Mango only",
+          "Peanut only"
+         ],
+         "answer": 0,
+         "explain": "Non-endospermic (exalbuminous): gram, pea, bean."
+        },
+        {
+         "q": "Orthodox seeds:",
+         "options": [
+          "Cannot survive drying",
+          "Are all recalcitrant",
+          "Germinate immediately",
+          "Survive drying and freezing and can be stored long"
+         ],
+         "answer": 3,
+         "explain": "They are dried to 10% moisture or less."
+        },
+        {
+         "q": "Recalcitrant seeds (coffee, mango, rubber) are:",
+         "options": [
+          "Easy to store",
+          "Tolerant of freezing",
+          "Sensitive to drying and chilling and cannot be stored long",
+          "Dry seeds"
+         ],
+         "answer": 2,
+         "explain": "Their moisture at maturity is 30-70%.",
+         "hy": true
+        },
+        {
+         "q": "Pulses include:",
+         "options": [
+          "Rice, wheat",
+          "Grams, peas and beans",
+          "Groundnut, sesame",
+          "Coconut, mustard"
+         ],
+         "answer": 1,
+         "explain": "Grains are rice, wheat, jowar, maize and ragi."
+        },
+        {
+         "q": "Oilseeds include:",
+         "options": [
+          "Groundnut, sesame, mustard, coconut, sunflower",
+          "Rice and wheat",
+          "Peas",
+          "Beans"
+         ],
+         "answer": 0,
+         "explain": "They are seeds used for oil."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "12 · Types of Fruits",
+     "notes": "True fruit: from the ovary only. Accessory fruit: includes other flower parts. Simple fruits are fleshy (drupe, berry, pome) or dry (dehiscent: legume, follicle, capsule; indehiscent: achene, nut, samara, grain, schizocarp). Aggregate and multiple fruits.",
+     "sections": [
+      {
+       "id": "gb_fr1",
+       "name": "Fruit Classification & Fleshy Fruits",
+       "questions": [
+        {
+         "q": "A true fruit develops from:",
+         "options": [
+          "Ovary plus receptacle",
+          "Several flowers",
+          "The calyx",
+          "The ovary and its contents only"
+         ],
+         "answer": 3,
+         "explain": "An accessory fruit includes other flower parts (e.g. pineapple).",
+         "hy": true
+        },
+        {
+         "q": "A multiple fruit (mulberry) develops from:",
+         "options": [
+          "One pistil",
+          "A single ovary",
+          "Pistils of a number of flowers",
+          "One carpel"
+         ],
+         "answer": 2,
+         "explain": "An aggregate fruit forms from several pistils of the same flower."
+        },
+        {
+         "q": "Simple fruits develop from:",
+         "options": [
+          "Many ovaries",
+          "A single ovary",
+          "Many flowers",
+          "The receptacle only"
+         ],
+         "answer": 1,
+         "explain": "They are either fleshy or dry."
+        },
+        {
+         "q": "A drupe has a hard stony:",
+         "options": [
+          "Endocarp containing a single seed",
+          "Exocarp",
+          "Mesocarp",
+          "Perianth"
+         ],
+         "answer": 0,
+         "explain": "Mesocarp is fleshy or fibrous; exocarp is thin skin (cherry).",
+         "hy": true
+        },
+        {
+         "q": "A berry is a simple fruit in which the:",
+         "options": [
+          "Wall is dry",
+          "Wall is hard",
+          "Wall is winged",
+          "Ovary wall becomes enlarged and juicy"
+         ],
+         "answer": 3,
+         "explain": "Examples: grape, banana."
+        },
+        {
+         "q": "A pepo is a:",
+         "options": [
+          "Leathery rind with septa",
+          "Dry fruit",
+          "Berry with a hard rind (watermelon, squash)",
+          "Winged fruit"
+         ],
+         "answer": 2,
+         "explain": "A hesperidium has a leathery rind (citrus)."
+        },
+        {
+         "q": "A pome (apple, pear) is an:",
+         "options": [
+          "True fruit",
+          "Accessory fleshy fruit including the floral tube/receptacle",
+          "Dry fruit",
+          "Multiple fruit"
+         ],
+         "answer": 1,
+         "explain": "It consists of ovary and perianth tissue.",
+         "hy": true
+        }
+       ]
+      },
+      {
+       "id": "gb_fr2",
+       "name": "Dry Fruits",
+       "questions": [
+        {
+         "q": "Dehiscent fruits:",
+         "options": [
+          "Open at maturity to shed seeds",
+          "Do not open",
+          "Are fleshy",
+          "Are single-seeded only"
+         ],
+         "answer": 0,
+         "explain": "Indehiscent fruits do not open.",
+         "hy": true
+        },
+        {
+         "q": "A legume splits along:",
+         "options": [
+          "One suture only",
+          "No suture",
+          "Septa only",
+          "Both dorsal and ventral sutures"
+         ],
+         "answer": 3,
+         "explain": "It develops from one carpel (beans, peas)."
+        },
+        {
+         "q": "A follicle splits along:",
+         "options": [
+          "Two sutures",
+          "Septa",
+          "One suture only (milkweed, columbine)",
+          "Holes"
+         ],
+         "answer": 2,
+         "explain": "It develops from one carpel."
+        },
+        {
+         "q": "A capsule develops from:",
+         "options": [
+          "One carpel",
+          "Several carpels",
+          "One pistil only",
+          "A receptacle"
+         ],
+         "answer": 1,
+         "explain": "Types: loculicidal, poricidal, denticidal, septicidal, silique, silicle, pyxis."
+        },
+        {
+         "q": "A poricidal capsule opens by:",
+         "options": [
+          "Round holes (poppy)",
+          "Teeth",
+          "Splitting along septa",
+          "A lid"
+         ],
+         "answer": 0,
+         "explain": "Pyxis has circumscissile dehiscence (plantain)."
+        },
+        {
+         "q": "A pyxis is a capsule with:",
+         "options": [
+          "Pores",
+          "Teeth",
+          "Septicidal splits",
+          "Circumscissile dehiscence (plantain)"
+         ],
+         "answer": 3,
+         "explain": "The top comes off like a lid."
+        },
+        {
+         "q": "An achene is:",
+         "options": [
+          "A winged fruit",
+          "A fleshy fruit",
+          "A one-seeded dry indehiscent fruit with the seed attached at one point",
+          "A multi-seeded fruit"
+         ],
+         "answer": 2,
+         "explain": "Examples: sunflower, dandelion, buttercup.",
+         "hy": true
+        },
+        {
+         "q": "A nut is:",
+         "options": [
+          "A winged fruit",
+          "A dry indehiscent one-seeded fruit with a thick hard wall (oak, chestnut)",
+          "A fleshy fruit",
+          "A capsule"
+         ],
+         "answer": 1,
+         "explain": "Similar to an achene but with a thickened wall."
+        },
+        {
+         "q": "A samara has:",
+         "options": [
+          "A wing from the fruit wall for wind dispersal (elm, maple, ash)",
+          "A hard pit",
+          "Pores",
+          "Teeth"
+         ],
+         "answer": 0,
+         "explain": "It is an achene with a wing.",
+         "hy": true
+        },
+        {
+         "q": "A grain (caryopsis) has:",
+         "options": [
+          "A free seed",
+          "A winged wall",
+          "A stony pit",
+          "The seed coat fused to the pericarp"
+         ],
+         "answer": 3,
+         "explain": "Examples: rice, wheat, corn."
+        },
+        {
+         "q": "A schizocarp:",
+         "options": [
+          "Opens by pores",
+          "Is fleshy",
+          "Splits into mericarps, each enclosing seeds",
+          "Has a wing"
+         ],
+         "answer": 2,
+         "explain": "It comes from a compound pistil."
+        }
+       ]
+      }
+     ]
+    }
+   ]
   }
  ]
 }
